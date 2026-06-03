@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Common underwater hand signals</title>
+  <desc id="desc">Eight simplified scuba hand-signal diagrams with Chinese and English labels.</desc>
+  <style>
+    .bg{fill:#f4fbfa}.card{fill:#fff;stroke:#d8e8e6;stroke-width:2}.skin{fill:#ffd6b8;stroke:#234;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}.line{fill:none;stroke:#234;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.arrow{fill:none;stroke:#126b70;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.danger{stroke:#d96c52}.label{font:700 28px system-ui, sans-serif;fill:#173331}.sub{font:600 20px system-ui, sans-serif;fill:#5b6865}.note{font:600 18px system-ui, sans-serif;fill:#5b6865}
+  </style>
+  <rect class="bg" width="1200" height="760"/>
+  <text x="42" y="54" class="label">水下常用手势 / Common underwater signals</text>
+  <text x="42" y="86" class="note">先取得对方注意和眼神接触；重要指令要对方重复确认。</text>
+
+  <g transform="translate(40 120)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <circle class="line" cx="130" cy="95" r="38"/>
+    <path class="skin" d="M88 153c24 18 57 20 84 1M93 151l-30 35M168 151l31 34"/>
+    <text x="28" y="214" class="label">OK / 我很好</text>
+    <text x="28" y="242" class="sub">Question or answer</text>
+  </g>
+
+  <g transform="translate(330 120)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <path class="skin" d="M130 168V72M99 103l31-31 31 31M96 168h68"/>
+    <path class="arrow" d="M205 170V82M205 82l-22 25M205 82l22 25"/>
+    <text x="28" y="214" class="label">Up / 结束潜水</text>
+    <text x="28" y="242" class="sub">Thumb up = ascend/end</text>
+  </g>
+
+  <g transform="translate(620 120)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <path class="skin" d="M130 74v96M99 139l31 31 31-31M96 74h68"/>
+    <path class="arrow" d="M205 82v88M205 170l-22-25M205 170l22-25"/>
+    <text x="28" y="214" class="label">Down / 下潜</text>
+    <text x="28" y="242" class="sub">Descend slowly</text>
+  </g>
+
+  <g transform="translate(910 120)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <path class="skin" d="M78 130h104M78 101h104M78 159h104"/>
+    <path class="danger" d="M198 82v94"/>
+    <text x="28" y="214" class="label">Stop / 停住</text>
+    <text x="28" y="242" class="sub">Hold position</text>
+  </g>
+
+  <g transform="translate(40 410)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <circle class="line" cx="119" cy="103" r="42"/>
+    <path class="skin" d="M173 102h42M215 102l-18-14M215 102l-18 14"/>
+    <text x="28" y="214" class="label">Ear problem / 耳压</text>
+    <text x="28" y="242" class="sub">Stop, ascend slightly</text>
+  </g>
+
+  <g transform="translate(330 410)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <path class="skin" d="M70 125h120M95 92l70 66M95 158l70-66"/>
+    <text x="28" y="214" class="label">Low air / 气量低</text>
+    <text x="28" y="242" class="sub">Report pressure early</text>
+  </g>
+
+  <g transform="translate(620 410)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <path class="skin danger" d="M72 126h132M72 126l34-30M72 126l34 30M204 126l-34-30M204 126l-34 30"/>
+    <text x="28" y="214" class="label">Out of air / 没气</text>
+    <text x="28" y="242" class="sub">Share gas immediately</text>
+  </g>
+
+  <g transform="translate(910 410)">
+    <rect class="card" width="260" height="260" rx="10"/>
+    <circle class="line" cx="93" cy="115" r="36"/>
+    <circle class="line" cx="166" cy="115" r="36"/>
+    <path class="arrow" d="M128 115h4"/>
+    <text x="28" y="214" class="label">Buddy / 潜伴</text>
+    <text x="28" y="242" class="sub">Stay close together</text>
+  </g>
+</svg>

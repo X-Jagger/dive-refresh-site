@@ -1,0 +1,313 @@
+            Revisiting the Hazards of Smoking and Diving
+
+
+                   Doing It Wrong:
+                 Smoking and Diving
+                                      By Heather Hamza, CRNA, M.S.
+
+
+
+
+                                                                                                                                  K. Hamza
+
+
+     The CDC reports that more deaths are caused each year by tobacco use than by all deaths from
+       HIV, illegal drug use, alcohol use, motor vehicle injuries, suicides, and murders combined.
+
+
+Introduction
+
+
+
+O
+         ne of the things that impressed me the most in my GUE       am referring to their overt references to the importance of good
+         training is the “evidence-based practice” approach that     physical fitness and their anti-smoking stance. Although the
+         they take. Everything that I learned had a reason behind    two are closely related, the purpose of this writing is to focus
+it. GUE applies sound physiologic rationales and mechanical          on smoking.
+principles in all of their methods, which is fantastic for someone
+                                                                     The very first publication of Quest has a wonderful article on
+like me who tends to question everything.
+                                                                     the dangers of mixing smoking and diving (Ranz, 1999). It is
+Another aspect of GUE that I genuinely appreciate is that they       definitely time to revisit this topic. I would also encourage the
+choose safety over hurting someone’s feelings. In particular, I      readers to look at Ranz’s article, as it is an excellent review.
+
+
+
+Quest										                                                                                              Vol. 12, No. 3        25
+                                                                                              In addition to lugging around heavy
+                                                                                              equipment, swimming in strong current,
+                                                                                              surge, or flow, and, perhaps, performing
+                                                                                              physically demanding work underwater,
+                                                                                              several studies have shown that regular
+                                                                                              physical activity may protect against DCS.
+                                                                                              This is believed to be attributed to reduced
+                                                                                              bubble formation associated with exercise
+                                                                                              (Pontier et al., 2009).
+
+                                                                                              According to Cresp et al. (2000), current
+                                                                                              medical screening is not efficacious
+                                                                                              at determining which individuals are
+                                                                                              medically unfit for diving. The authors
+                                                                                              also advocate the promotion of continued
+                                                                                              health surveillance in divers, seeing as most
+                                                                                              certifying agencies are not engaging in this
+                                                                                              practice. Although some organizations do
+                                                                                              require “dive physicals,” these are largely
+                                                                                              self-reporting instruments.
+
+                                                                                              Commercial divers routinely undergo
+                                                                                              more rigorous medical screening. In Japan,
+                                                                                              they have a health examination every six
+                                                                                              months, including spirometry, which is the
+                                                                                              most common form of pulmonary function
+                                                                                              tests (PFTs) (Suzuki, 1997). Suzuki also
+                                                                                              conducted a study to compare the PFTs in
+                                                                                              smoking versus non-smoking commercial
+                                                                                              divers, which will be subsequently discussed.
+
+                                                                                              Experimentation: Hyperbaric O2
+                                                                                              Therapy
+
+      With all the adverse effects of cigarette smoking clearly                                The heart and lungs are truly one unit—one
+                                                                                               cannot function without the other. In order
+       documented, there can no longer be any question that
+                                                                                               for our bodies to efficaciously eliminate N2
+      smoking is a high-risk activity. (Courtesy of Dan Piraro)                                and CO2, as well as deliver life-sustaining
+                                                                                               O2, our cardiovascular system must be in
+How Smoking Affects Divers                                                                     tip-top shape. Smoking has direct negative
+                                                                         impacts on the very mechanisms that we depend on not only for
+A basic review of the scientific literature using key words such
+                                                                         maintaining life at the surface, but for surviving in the hyperbaric
+as “smoking and diving” and “smoking and hyperbaric” yielded
+                                                                         environment.
+three overall categories: physical fitness/determination of fitness
+for diving; retrospective analyses of diving accidents, namely           There is an abundance of studies that describe hyperbaric
+DCI/DCS; and lastly, experimentation. Experiments included               oxygen therapy and wound healing (i.e., diabetic ulcers, bone
+pulmonary function tests (PFTs) in smokers and non-smokers               fractures, spine fusions, reconstructive tissue flaps), comparing
+and physiologic functioning/wound healing in hyperbaric                  smokers versus non-smokers. While the details are beyond the
+chambers. The negative consequences of smoking are described             scope of this article, their findings are predictable. Smokers
+in all of the literature, with a special focus on these effects in the   consistently exhibit delayed healing due to their compromised
+hyperbaric environment. These effects are summarized in the              microvasculature (the smallest blood vessels). Smoking not only
+table at the end of the article and will be described throughout         damages the lungs but the cardiovascular system as well. Some
+the rest of the article.                                                 classic predicted pathology includes damaged endothelium
+                                                                         (lining) of microvasculature and larger vessels and platelet
+Diving Fitness
+                                                                         aggregation (clumping), as well as acute changes in heart rate and
+The need for divers to be in good physical condition and to have         systemic vascular resistance (vasoconstriction). These effects are
+solid exercise tolerance is already well established. What seems to      summarized in the table at the end of the article.
+be lacking is a more thorough physical exam that includes more
+                                                                         A recent study by Hart and Strauss (2010) analyzed gas tensions
+than a swim test, as well as ongoing maintenance of physical
+                                                                         in skeletal muscle and subcutaneous tissues in smokers and non-
+health.
+
+26        Quest										                                                                                                 Vol. 12, No. 3
+smokers, comparing them at room air and under
+hyperbaric O2 conditions (HBO2). This article also
+includes an excellent overview and explanation of
+how smoking affects gas exchange, and I highly
+recommend reading it. The researchers’ most
+relevant finding was the significant delay in N2
+off-loading from skeletal muscle in the smoking
+group when exposed to both protocols (room air
+and HBO2). They concluded that this was due to
+the chronic destruction of the microvasculature’s
+epithelium (lining of the tiny blood vessels)
+rather than the transient effects of nicotine. These
+changes were already evident in young smokers in
+their 30s.
+
+Since this study protocol used a PO 2 of 2.0
+(subjects at 2 ATA breathing pure O2 from a scuba
+regulator), these findings cannot necessarily be
+generalized to the typical hyperbaric conditions a
+scuba diver is exposed to, for example, with a PO2
+of 1.2. If anything, a study that mimics a scuba dive
+would show even more detriment in the smoking
+group. This is because HBO2 has been shown to
+improve tissue oxygenation even with endothelial
+damage. It would be fascinating to replicate this
+study in a hyperbaric environment minus the
+benefits of a 2.0 PO2.
+
+
+
+
+                                                        Courtesy of K. Hamza
+Pulmonary Function Tests
+In short, PFTs (also called “spirometry”) are a
+method of assessing a variety of lung volumes (i.e.,
+flow over time). There are volumes and capacities,
+with a capacity being the sum of one or more
+volumes. Here is one example that you can try on
+yourself; it is called functional residual capacity or        Tobacco advertising often trades on sexually charged
+FRC. After a normal tidal exhalation, there is still
+a lot of volume left in your lungs, but you would
+                                                           images    to promote identification and sell its product. The
+not be aware of this unless you “forced” it out.             sad irony, however, is that the end result of the activity
+Take a normal breath, in then out. After you have                 of smoking is not what is represented in the ad.
+exhaled normally, gently force yourself to exhale
+every last drop of air. This “leftover” volume is
+                                                                        She analyzed static lung volumes, dynamic lung volumes and
+called the FRC, and it can be measured. Another measurement is
+                                                                        flows, and DLco. Overall lung volumes were larger than those
+the DLco, or diffusing capacity of the lung for carbon monoxide.
+                                                                        seen in the general population. As to be expected, there was a
+Typically, obstructive lung disease (as seen with smoking) will
+                                                                        decrease in DLco seen with smoking, suggesting emphysema
+cause a decrease in the lung’s diffusing capacity. Please see Figure
+                                                                        (which the author reports is a contraindication for diving). It is
+A for classic flow-volume loops that clearly depict the differences
+                                                                        worth mentioning that a drop in DLco is seen with normal aging,
+between normal and pathological patterns.
+                                                                        even in non-smokers. So, these seemingly healthy young divers
+Experimentation: Lung Function                                          were actually performing with aging lung function.
+
+The following two studies analyze PFTs in commercial divers,                   Sekulic and Tocilj’s study (2006) looked at PFTs in thirty-two
+comparing smokers versus non-smokers. These findings might                     male and twenty-seven female military divers in Croatia. The
+not necessarily be able to be generalized to the “normal” diving               only statistically significant difference that they found between
+population since the majority of participants of the studies were              smokers and non-smokers was in the relative inspiratory vital
+young and in otherwise good health.                                            capacity. They also concluded that smoking negatively affects
+                                                                               pulmonary function in military divers, mainly with respect to
+Suzuki’s study (1997) used seventy-one male participants                       large airway function. The authors speculate that regular physical
+who were divers with the Japan Maritime Self-Defense Force                     fitness training (such as what military divers must endure) can
+(JMSDF); forty-six were smokers and twenty-five non-smokers.                   decrease the harmful effects of smoking, which would explain
+
+
+Quest										                                                                                                        Vol. 12, No. 3        27
+the lack of more statistically significant differences between the        Wilmhurst and Bryson (2000) published a unique study
+two groups.                                                               that analyzed one hundred consecutive divers who sustained
+                                                                          neurological DCI and compared them to 123 historical “control”
+Retrospective Analyses of Diving Accidents                                divers, whose dives were uneventful. Dr. Bryson regularly treats
+                                                                          divers for DCI. The authors specifically looked at right-to-left
+The next two papers were retrospective analyses of scuba diving
+                                                                          shunts (also known as a patent foramen ovale or PFO), lung
+accidents, including assessment of accident severity and possible
+                                                                          disease, and provocative dive profiles. We will focus on the lung
+contributing factors (i.e., diver characteristics). These articles also
+                                                                          disease.
+provide a thorough review of the physiologic mechanisms behind
+the etiology of DCI.                                                      Not surprisingly, there were significantly more smokers in the
+                                                                          cases who did not have predisposing factors and with short
+An overview of DCI is relevant at this juncture, to demonstrate
+                                                                          latencies than in the rest of the divers (five out of twelve versus
+its relationship with smoking. First, every dive is a decompression
+                                                                          twelve out of eighty-eight). The authors define latency as the
+dive. Second, bubbles are commonly found in the venous
+                                                                          interval between surfacing and the onset of the first neurological
+circulation after diving but are usually asymptomatic because they
+                                                                          symptom. Interestingly, their current practice is to carry out
+are filtered by the pulmonary capillaries and are eliminated via the
+                                                                          lung function tests in all cases of neurological decompression
+alveoli. If ambient pressure is reduced below the partial pressure of
+                                                                          illness, including spirometry, flow volume loops, chest X-ray,
+the gas dissolved in the tissues, then bubbles can form and cause
+                                                                          and sometimes a chest CT (computerized tomography), which
+DCS. Obstructive lung disease with air trapping (commonly
+                                                                          is more sensitive than a chest X-ray for detecting the presence
+seen with smoking) or failure to fully exhale during ascent can
+                                                                          of bullae (air-filled pockets due to alveolar damage). They also
+cause pulmonary barotrauma, leading to bubbles invading the
+                                                                          recommend a CT scan of the lungs if a diver wishes to resume
+pulmonary veins to become arterial gas embolism (AGE).
+                                                                          diving after an episode of neurological DCI starting on the ascent
+                                                                          or soon after surfacing, when other tests are negative. The authors
+                                                                          describe many individual case reports of neurological DCI, the
+                                                                          role of lung disease, and the need for proper diagnostics. For
+                                                                          example, there was a case of a diver who smoked a pack and a
+                                                                          half of cigarettes a day, then had quit for two years. Immediately
+                                                                          upon surfacing after a dive, he showed signs of neurological DCI.
+                                                                          His entire work-up was negative, except his chest CT showed
+                                                                          multiple bullae.
+
+                                                                          Lastly, Buch et al. (2003) used data from the Divers Alert
+                                                                          Network® (DAN) from 1989-1997, to retrospectively analyze a
+                                                                          total of 4,350 cases of DCI. There were actually a total of 8,269
+                                                                          cases; however only cases that had complete data were analyzed.
+                                                                          Additionally, diving-related deaths were not included in the study.
+                                                                          Data was not analyzed after 1997 because the following year the
+                                                                          instrument was changed, allowing for free text and not a “check
+                                                                          list” of symptoms. As we know, there are many contributing
+                                                                          factors for DCI but this article specifically looked at smoking.
+
+                                                                          In medical terminology, a “pack year” means that the individual
+                                                                          has smoked a pack of cigarettes a day for a certain number of
+                                                                          years. Therefore a “20-pack year smoker” is someone who has
+                                                                          smoked a pack a day for 20 years. In this study, smoking history
+                                                                          was quantified as heavy (>15 pack years), light (0-15 pack years),
+                                                                          and never smoked. DCI symptoms were classified as severe
+                                                                          (alteration in consciousness, balance or bladder/bowel control,
+                                                                          motor weakness, visual symptoms, convulsions), moderate (other
+                                                                          neurological symptoms), or mild (pain, skin, or nonspecific
+                                                                          symptoms).
+
+                                                                          The authors found that the heavy smokers were 1.88 times more
+                                                                          likely to have DCS than divers who never smoked, and 1.56 times
+                                                                          more likely than light smokers. They also found that any smoker
+                                                                          was more likely to have severe versus moderate symptoms than
+                                                                          in non-smokers. Although a cause-and-effect relationship is not
+                                                                          established with this data, there is an undeniable correlation.
+                Courtesy of Tony Gleeson                                  When categorized, the results clearly show that heavy smokers
+                                                                          present the highest number of severe symptoms. The authors
+                 (www.tonygleeson.com)
+28        Quest										                                                                                                 Vol. 12, No. 3
+conclude that smoking is a risk factor for
+increased severity of symptoms.
+
+Conclusions
+It should be abundantly clear by now that
+smoking and diving do not mix. There is
+an impressive list of physiologic rationales,
+as well as sound medical research to support
+this statement. In addition to the obvious
+damage that smoking does to the lungs and
+conducting airways, there is a significant
+amount of occult pathophysiology that
+might not manifest until the least opportune
+moment (i.e., after surfacing from a dive). I
+am encouraging you to please not dive with
+smokers; they are putting themselves and
+their teammates at risk.
+
+References
+ Buch, D.A., El Moalem, H.,
+ Dovenbarger, J.A., Uguccioni, D.M. &
+ Moon, R.E. (2003). Cigarette smoking
+ and decompression illness severity:
+ A retrospective study in recreational
+ divers. Aviation, Space & Environmental
+ Medicine, 74(12), 1271- 1274.
+ Cresp, R., Grove, C., Lalor, E., Valinsky,
+ L. & Langton, P. (2000). Health status
+ of recreational scuba divers in western
+ Australia. South Pacific Underwater
+ Medicine Society Journal, 30(4), 226-230.
+ Hart, G.B. & Strauss, M.B. (2010).
+ Effects of cigarette smoking on tissue gas
+ exchange during hyperbaric episodes.
+ Undersea and Hyperbaric Medical Society,
+ 37(2), 73-87.
+ Pace, T., Mifsud, J., Cali-Corleo, R.,
+ Fenech, A.G. & Ellul-Micallef, R. (2005).
+ Medication, recreational drugs, and
+ diving. Malta Medical Journal, 17(1),
+ 9-15.
+                                                      Summary of deleterious effects of smoking and diving
+ Pontier, J.M., Guerrero, F. & Castagna,
+ O. (2009). Bubble formation and
+ endothelial function before and after
+ 3 months of dive training. Aviation, Space & Environmental        Wilmhurst, P. & Bryson, P. (2000). Relationship between the
+ Medicine, 80(1), 15-19.                                           clinical features of neurological decompression illness and its
+                                                                   causes. Clinical Science, 99, 65-75.
+ Ranz, A., (1999). The impacts of smoking on diving. Quest,
+ 1(1), 36-42.                                                      Wilmhurst, P., Davidson, C., O’Connell, G. & Byrne, C.
+                                                                   (1994). Role of cardiorespiratory abnormalities, smoking
+ Sekulic, D. & Tocili, J. (2006). Pulmonary function in military   and dive characteristics in the manifestations of neurological
+ divers: Smoking habits and physical fitness training influence.   decompression illness. Clinical Science, 86(3), 297-303.
+ Military Medicine, 171(11), 1071-1075.
+ Suzuki, S. (1997). Diver’s lung function: Influence of smoking
+ habit. Journal of Occupational Health, 39, 95-99.
+
+
+Quest										                                                                                          Vol. 12, No. 3       29
+

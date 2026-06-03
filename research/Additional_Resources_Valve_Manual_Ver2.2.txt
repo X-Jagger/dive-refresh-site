@@ -1,0 +1,817 @@
+--- Page 1 ---
+Global
+Underwater
+Explorers
++
++ +
++
+?
+GUE V alve Manual
+Ver 2.1
+
+
+--- Page 2 ---
+Global Underwater Valve Failure Identification and Resolution
+by: Dan MacKay
+Editors: Alberto Nava, Richard Lundgren, Guy Shockey, Karim Hamza
+© 2011 Global Underwater Explorers
+This Global Underwater Explorers book is published by Global Underwater Explorers
+For information about Global Underwater Explorers publications, contact:
+Global Underwater Explorers
+15 South Main Street
+High Springs, FL 32643
+USA
+(386) 454-0820
+(800) 762-DIVE (3483)
+(386) 454-0654 (FAX)
+Notice of Rights
+All rights reserved. No part of this book may be reproduced or transmitted in any form by any means, electronic, 
+mechanical, photocopying, recording, or otherwise, without the prior written permission of the publisher. For 
+information on obtaining permission for reprints and excerpts, contact permission@gue.com.
+Notice of Liability
+The information in this book is distributed on an “As Is” basis, without warranty. While every precaution has 
+been taken in the preparation of this book, neither the author nor Global Underwater Explorers shall have any 
+liability to any person or entity with respect to any loss or damage caused or alleged to be caused directly or 
+indirectly by the instructions contained in this book.
+Tradema rks
+GUE is a registered trademark of Global Underwater Explorers in the United States and other countries.
+ISBN XXXXX
+10  9  8  7  6  5  4  3  2  1
+
+
+--- Page 3 ---
+Contents
+Valve Failure Identification and Resolution 1
+Introduction   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   1
+Definitions  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Manifold System    �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Manifold  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Right Side of the Manifold   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Left Side of the Manifold �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Isolator�   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Valve �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Regulators   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   2
+Detailed Function �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   3
+Failures   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   5
+Common Failures  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   5
+Valve Failure Process 7
+Valve Drill (Doubles)�   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   7
+The diver executing the drill will:  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   7
+Valve Drill (Single)    �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   8
+The drill is conducted as follows:   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   8
+General Trouble-shooting Procedure   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   9
+Upon discovery of a loss of gas problem: �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   9
+Partner (Team) Response:   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   9
+Detailed Action for Failures 10
+Right regulator repairable   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 10
+Right regulator not repairable    �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 10
+Right side manifold not repairable    �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 10
+Left regulator repairable �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 11
+Left regulator not repairable  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 11
+Left side manifold not repairable  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 12
+Erroneous right-side manifold   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 12
+Erroneous left-side manifold  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 13
+No idea where the gas is coming from��   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 14
+Miscellaneous valve procedures    �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 14
+Flow Check  �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 14
+Roll-off Awareness    �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 14
+Isolator Awareness    �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 14
+Afterword   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   � 14
+Annex A - Manifold Parts Lists 15
+ Val Ve Manual  | III
+
+
+--- Page 4 ---
+IV | Table of Contents
+
+
+--- Page 5 ---
+Val Ve Manual  | 1
+Valve Failure Identification and Resolution
+Introduction
+The goal of this document is to provide supplemental reading for Global Underwater Explorers (GUE) rec -
+reational, technical, and/or cave divers so that they can familiarize themselves with the function and use of a 
+double outlet isolated manifold. The manifold is a piece of equipment that is fairly innocuous at first glance. 
+However, an in-depth look at this complex device reveals many modes of operation as well as a host of failure 
+points. It is essential that all divers who use a manifolded system understand the following:
+•	 Correct operation
+•	 Failure modes
+•	 Emergency procedures
+Complete understanding and effective use of a manifold requires a unique combination of knowledge and 
+physical dexterity as well as high performance team skills.
+Figure 1.1: Facing view of a Haclyon dual outlet 300 bar manifold. This manifold is an example of the type of manifold gener-
+ally used for cave and technical diving purposes.
+
+
+--- Page 6 ---
+2     | Global underwater explorers
+Definitions
+Manifold System
+A complete gas delivery system including tanks, bands and manifold with regulators attached.
+Manifold
+The complete metal piece composed of right-side, left-side and the isolator. This includes the three valves, as 
+well as burst-disks and o-rings. (Figure 1.1) 
+Right Side of the Manifold1
+The post where the right regulator is attached plus the right side valve, burst-disk and other o-rings attached 
+to this metal body.
+Left Side of the Manifold
+The post were the left regulator is attached plus the left-side valve, burst-disk and others o-rings attached to 
+this metal body.
+Isolator
+The central part of the manifold including the isolation valve. It connects the right and left posts.
+Valve
+Each manifold has three. These are comprised of a rubber knob, valve stem, all o-rings and the HP seat.
+Regulators
+Everything from the DIN ‘O’ ring forward.
+1  It is important to understand the orientation of tanks and manifolds when indicating failures. For our purposes when a loca-
+tion is indicated it is described from the problem diver’s perspective. For example if we are discussing a right regulator failure, 
+the regulator in question is the one that is on his/her right side. In other words, the one the diver would touch if the diver 
+reached back over his/her right shoulder with his/her right hand. Therefore all right hand failures are on the divers right side 
+and all left side failures are on the left.
+
+
+--- Page 7 ---
+Val Ve Manual  | 3
+Detailed Function
+Due to the critical nature of the problems that a malfunctioning manifold presents to a diver, it is important 
+that the diver has an understanding of the mechanical intricacies of how a manifold is assembled and oper -
+ates. If we look at the manifold from the aspect of right side, isolator, and left side, the following operating 
+principles apply:
+•	 The left side mirrors the right side of the manifold in operation and failures.
+•	 Closing either the left or right valve serves only to remove the valve outlet (regulator attachment point) 
+from the system. This means that if either valve is shut down, gas is still free to transfer from one tank 
+to the other through the isolator. (Figure 1.2)
+•	 The isolator separates or interrupts airflow from one cylinder to the other. One caveat with the isolator 
+is that if a failure of the isolator itself occurs via a failed valve stem O-ring, isolating will only protect 
+the gas contained in the right tank. Due to the way the isolator is engineered gas will slowly leak from 
+the left hand side, as it has no high-pressure seat to isolate it from the system
+.1(Figure 1.3)
+•	 For normal dive operations all valves are rotated fully counter-clockwise (open) but not forcibly. The 
+diver must ensure that the valve does not get jammed open, which can easily occur if too much force is 
+applied to the valve wheel in the fully open position. This could have potentially disastrous effect when 
+trying to resolve valve issues while submerged, as the body position of a diver does not allow for much 
+mechanical advantage.
+1  This arrangement may vary. Not all manufacturers configure the isolator in the same manner. The only way to be absolutely sure 
+which way your isolator is configured is to remove the knob, valve stem assembly, and the HP seat and inspect the HP orifice 
+to see which side the valve port is orientated. Orient the isolator as if standing behind the tanks. If the bypass port is on the 
+left gas loss will occur on the left side, if on the right, gas loss will occur on the right side.
+Figure 1.2: Detailed view of right post. Red arrow il-
+lustrates how gas can flow from the tank to 
+the manifold while by-passing the valve.
+
+
+--- Page 8 ---
+4     | Global underwater explorers
+Figure 1.3: Cutaway of a 300 bar isolator. The green arrow on the right displays how the gas flow to the right 
+side of the manifold can be interrupted by the high pressure seat sealing on the central orifice. The 
+red left arrow shows that it is not possible for the high pressure seat to seal the left side of the iso-
+lator. In the case of a failed primary ‘O’ ring or valve stem ‘O’ ring gas will leak from the valve. Photo 
+courtesy of Wojtek Filip.
+
+
+--- Page 9 ---
+Val Ve Manual  | 5
+Failures
+By far the majority of failures occur with the first or second stages in the form of free flows, first stages that 
+have become unseated, or loose/damaged hoses, as opposed to an actual manifold malfunction. The greatest 
+cause of valve issues is a distinct lack of maintenance. Given the exceptional number of failure points associ -
+ated with a manifold, with most of those being moving o-rings under extreme pressure, it is imperative that 
+the manifold be included in a biannual inspection and service cycle. 
+There are three cardinal rules of dealing with manifold failures in particular and leaking gas issues in general:
+1. Never manipulate regulators or hoses that are pressurized. This is likely to turn a fixable problem into 
+a non-fixable problem by cutting captured static O-rings.
+2. Always take sufficient time to clearly think through a manifold issue. It is not uncommon for an in -
+experienced diver to completely shut down both of a partners regulators, thus creating a critical emer-
+gency situation. Taking the time to identify which regulator your partner is breathing from will avoid 
+an inadvertent shut down, much to your partner’s relief.
+3. Always purge a regulator in order to ensure that it is functioning prior to placing it in your mouth.
+In order to simplify the number of failures that can occur with a manifold system we will break them down 
+into types and categories. 
+The two categories of manifold failures are:
+•	 Regulator
+•	 Manifold
+And these are classed as either:
+•	 Fixable (Regulators may or may not present fixable problems)
+•	 Non-fixable (Some regulator and all manifold issues are not fixable)
+Common Failures
+Failure identification and resolution needs to be simple and direct in order to work underwater.  Divers should 
+follow simple procedures to contain the failure and communicate the problem clearly in order to allow the team 
+to take appropriate action during the event.
+Gas leaking issues are classified by the location of the source. In one dimension we can indicate the leak by 
+side; right side or left side. This can be easily communicated to the diver with the failure by tapping him on the 
+appropriate shoulder or arm and indicating the broken signal. The second dimension for source identification 
+will be if the problem is on the regulator, or on the manifold and is usually determined by the combination of 
+the physical input provided by the partner as well as sound. 
+Some regulator issues are repairable, as for example, an unseated first stage o-ring, however no manifold issues 
+are repairable. Repairable or not, all regulator issues, once properly handled should be bubble free. On the 
+other hand all manifold issues will continuously leak bubbles until the gas contained in the offending side has 
+drained completely. Therefore from a diver’s perspective the source of the problem is simple to identify. It is 
+either on the right or  the left side, and it is either a regulator or manifold based on the presence or absence of 
+bubbles. That is all that needs to be understood and communicated.
+
+
+--- Page 10 ---
+6     | Global underwater explorers
+To illustrate the following is an list of possible failures for a manifold system.
+1. Right regulator repairable
+ º Unseated first stage O-ring
+ º Loose hose
+2. Right regulator not repairable
+ º Blown hose
+ º Blown O-ring
+ º Free flow
+3. Right side of the manifold not repairable
+ º Burst disk
+ º Tank O-ring
+ º Barrel O-ring
+ º Valve failure
+4. Isolator not repairable
+5. Left regulator repairable
+ º Unseated first stage O-ring
+ º Loose hose
+6. Left regulator not repairable
+ º Blown hose
+ º Blown O-ring
+ º Free flow
+7. Left side of the manifold not repairable
+ º Burst disk
+ º Tank O-ring
+ º Barrel O-ring
+ º Valve failure
+8. Erroneous right side either repairable or not
+ º Failure actually on the left
+9. Erroneous left side either repairable or not
+ º Failure actually on the right
+10. No idea where the gas is coming from
+
+
+--- Page 11 ---
+Val Ve Manual  | 7
+Valve Failure Process
+Valve Drill (Doubles)
+This drill is used to ensure the correct positioning of all valves, the proper operation of the primary and second-
+ary regulators, and to confirm a diver’s capacity for operating the valves. To master the valve drill a diver must 
+first develop solid situational awareness accompanied with strong fundamental diving skills such as buoyancy 
+control, trim and maneuvering techniques. The team assumes a formation as dictated by the environment. The 
+diver who is currently conducting the valve drill will signal to one of their partners to watch them while they 
+execute the drill. The partner will assume a ready state (be prepared to donate) and indicate OK. From that 
+position the drill is conducted as follows:
+The diver executing the drill will:
+1. Purge the alternate regulator to ensure a viable gas source to switch to
+2. Reach back with the right hand and close the primary (right) valve while signaling for attention with 
+primary light
+3. Remove the primary from the mouth with right hand1
+4. Place the alternate in mouth with the left hand
+5. Clip the primary to the right chest ‘D’ ring and pause
+6. Reach back with the right hand, rotate the primary valve to the fully open position
+7. Locate and unclip the primary, remove the alternate from the mouth and replace it with the primary 
+regulator and pause
+8. Reach back with the right hand and rotate the isolator to the fully closed position while signaling for 
+attention with the primary light
+9. Return the isolator to the fully open position and pause
+10. Move primary light to a temporary hold in the right hand and signal for attention with primary light 
+while reaching back with the left hand to fully rotate the alternate (left) valve to the closed position
+11. Completely purge the alternate regulator
+12. Reach back with the left hand, rotate the alternate valve to the fully open position
+13. Purge the alternate to ensure that it is functioning
+14. Move primary light back to normal position in the left hand
+15. Conduct a final flow check including any additional tanks such as stages/deco/dry suit bottles/RB80 
+switch block and signal OK to terminate the drill
+While this seems to be quite a lengthy drill it is simple to remember:
+•	 Always start from the right and work your way to the left
+ º Right side – close, purge, open
+1  Confirm valve closure by either purging or breathing the primary regulator until all gas is completely depleted from the 
+system prior to clipping off the regulator.
+
+
+--- Page 12 ---
+8     | Global underwater explorers
+ º Isolator – close, open
+ º Left side – close, purge, open
+ º Flow check
+When first learning this drill, take your time as correctness matters more than speed. At the Recreational/
+Fundamentals level you should strive to accomplish this drill in under three minutes. A Tech 1/Cave 1 diver 
+should aim for two minutes while a skilled Tech 2/Cave 2 diver should have no issue with completing this 
+drill in a minute or less. The importance of dry land training cannot be stressed enough when learning these 
+drills. A few moments spent in the garage or on a picnic table practicing and visualizing the process will be 
+time wisely invested to maximize the use of your in-water time.
+Valve Drill (Single)
+This drill is used to confirm that the single tank diver has the dexterity to manipulate the valve in the event of 
+inadvertent closure. As the single tank diver only has one possible air source, it is absolutely critical that at no 
+time does the diver completely close the valve. This drill is used to confirm valve position as well as exercise 
+the ability to accurately locate and rotate the valve to the open position.
+The drill is conducted as follows:
+1. The team assumes a formation as dictated by the environment
+2. The diver who is currently conducting the valve drill will signal to one of his/her partners to observe 
+him/her while he executes the drill
+3. The partner will assume a ready state (be prepared to donate) and indicate OK
+4. The working diver will:
+ º Reach up with his right hand and locate the valve
+ º Demonstrate the ability to manipulate the valve (flow check the valve, do not close)
+ º Conduct a flow check
+There is no particular time requirement for conducting this drill but given the possibility that in this scenario 
+a diver is in the unenviable position of being in the water with their only supply of gas shut down, it is in the 
+best interests of the diver to be able to execute this operation as efficiently and quickly as possible.
+As mentioned previously these drills are designed to serve a number of purposes. Primary among these is to 
+ensure that the diver can in fact manipulate the valves in the first place. Next the drill serves more of a house-
+keeping and team-building role, that is that it exercises team and individual skill to execute the drill properly. 
+The housekeeping purpose is one of ensuring that everything is as it should be. Finally, but by no means least, 
+we wish to lay down the procedures and ingrain muscle memory so that when trouble occurs initial responses 
+are correct and immediate. It cannot be stressed enough that gas emergencies, while rare, are extremely seri -
+ous and must be dealt with accordingly.
+While on the surface valve failures may appear to present complex problems given the number of potential 
+failures, this process can be simplified tremendously by following simple procedures. The diver has to under-
+stand that there is time to solve these issues, although the time is limited, and while the problem might not be 
+found immediately it will be found eventually. Even if the diver does not find the problem at all, if the valve 
+drill has been executed properly and gas management rules have been properly adhered to, then there will still 
+be plenty of gas to get to safety!
+
+
+--- Page 13 ---
+Val Ve Manual  | 9
+General Trouble-shooting Procedure
+The following process should be used to solve loss of gas issues. With experience, immediate problem solving 
+actions may be executed for an in-process incident, however at this stage methodical problem solving is the 
+best practice. For the most part it is unlikely that the problem will be sufficiently clear to take precise actions. 
+This general procedure will at the very least isolate the problem, it is up to the team members to diagnose and 
+fix the problem, if indeed the problem is fixable.
+Upon discovery of a loss of gas problem:
+1. Signal your team and attempt to determine where the leak is occurring
+2. Close that valve
+3. Purge and/or breath dry, switch regulators, and clean up if required
+4. STOP and LISTEN
+5. If the bubbles have stopped then the problem has been isolated to a failed or loose regulator; commu-
+nicate to your teammate to come and investigate, while continuing to maintain situational awareness.
+6. If the bubbles have not stopped, then they are not going to at this point so it is time to move into gas 
+preservation mode; isolate and ask your teammate for assistance
+1.
+Partner (Team) Response:
+1. Form up on the distressed diver as dictated by the environment and be prepared to donate; continue to 
+maintain situational awareness.
+2. Observe the diver as they attempt to isolate the issue. In reality, if you are paying attention, you will 
+likely know exactly what the issue is by the time they ask for help, thus speeding up the process.
+3. When you are motioned to come in and help solve the problem, make sure you identify the regulator 
+that the diver is breathing by tracing it’s hose back to the manifold.
+4. Confirm the position of the isolator and the valve on the side the diver is not breathing from.
+5. Begin the troubleshooting process.
+It is imperative that the diver who is troubleshooting not manipulate the valve the distressed diver is breathing 
+from as can be illustrated as follows:
+For arguments sake imagine that a failure on the left side has occurred. The diver in question executes the 
+correct procedure and is left in an end state of right valve closed, isolator closed, left valve open, and breath -
+ing from the left regulator that is leaking at the DIN wheel. The partner comes in and forgets to identify the 
+regulator the distressed diver is breathing from, sees immediately that the left regulator DIN wheel is leaking 
+and commences to shut it down-much to the surprise of his buddy who suddenly has nothing to breath from! 
+Once again this would do nothing to improve team trust.
+We will now continue with a complete description of failures and the individual/team actions needed to carry 
+out corrective action.
+1  At this point all available options have been exhausted. Even in the event of an error, and the problem is actually on the left 
+side, half of the gas supply is secured. The team member will discover the problem and safely execute the procedure to re-
+establish use of the primary  and then proceed to rectify the real issue if possible.
+
+
+--- Page 14 ---
+10     | Global underwater explorers
+Right regulator repairable
+Likely problem
+•	 Unseated first stage O-ring
+•	 A loose hose
+Your Action
+•	 Signal your partner and close the right valve
+•	 Breathe or purge the long hose dry
+•	 Switch to your alternate regulator
+•	 Clip off the primary regulator
+•	 If there are no bubbles the problem is temporar-
+ily solved
+Partner Action
+•	 Identifies which regulator you are breathing from
+•	 Opens right valve slowly
+•	 Checks for bubbles
+•	 If there are bubbles
+ º Closes the right valve
+ º Purges the long hose
+ º Re-seats the first stage or tightens a loose 
+hose
+ º Re-pressurizes the right regulator
+•	 If there are no bubbles:
+ º Purges the primary regulator in a manner 
+in which your partner can see it
+ º Signals that the regulator is OK
+Your Action
+•	 Switch back to primary regulator
+•	 Flow check
+Decision
+•	 Check remaining gas supply
+•	 Continue or terminate the dive
+Lost Resources
+None
+Right regulator not repairable
+Likely problem
+•	 Blown o-ring
+•	 Blown hose
+Your action
+•	 Signal your partner and close the right valve
+•	 Breathe or purge the long hose dry
+•	 Switch to your alternate regulator
+•	 Clip off the primary regulator
+•	 If there are no bubbles the problem is temporar-
+ily solved
+Partner Action
+•	 Opens the right valve slowly
+•	 Checks for bubbles
+•	 Confirms it is not repairable
+•	 Shuts down the right valve
+•	 Taps you on right shoulder or arm and indicate 
+that it broken
+Your action
+•	 Flow check
+Decision
+•	 Terminate the dive
+Lost resources
+•	 Primary regulator
+•	 Primary inflation
+Right side manifold not repairable
+Likely problem
+•	 Burst disk
+•	 Tank O-ring
+•	 Barrel O-ring
+Detailed Action for Failures
+
+
+--- Page 15 ---
+Val Ve Manual  | 11
+•	 Valve failure
+Your action
+•	 Signal your partner and close the right valve
+•	 Breathe or purge the long hose dry
+•	 Switch to your alternate regulator 
+•	 Listen for bubbles to stop
+•	 Clip off primary
+•	 Still bubbling:
+ º Close isolator
+•	 Bubbles will still be present so call in your part-
+ner to investigate
+Partner action
+•	 Confirms the regulator that you are breathing 
+from
+•	 Checks to ensure isolator has been completely 
+closed
+•	 Confirms broken/not repairable
+•	 Taps you on the right shoulder or arm and sig-
+nals that it is broken
+Your action
+•	 Flow check
+Decision
+•	 Terminate the dive
+Lost resources:
+•	 Primary regulator
+•	 Primary inflation
+Note: If this failure occurs the right side will bubble 
+until all gas is expended from the RH cylinder.
+Left regulator repairable
+Likely problem
+•	 Unseated first stage O-ring
+•	 A loose hose
+Action
+•	 Switch the light to a temporary hold
+•	 Signal your partner and close the left valve
+•	 Purge the alternate regulator
+•	 If there are no bubbles the problem is temporar-
+ily solved
+Partner Action
+•	 Confirms which regulator you are breathing 
+from
+•	 Opens the left valve slowly
+•	 Checks for bubbles
+•	 If bubbles are still present:
+ º Turn the left valve off
+ º Purge the alternate regulator
+ º Re-seat first stage or tighten a loose hose
+ º Re-pressurize
+•	 If no bubbles are present:
+ º Purges the alternate regulator
+•	 Signal that the regulator is OK
+Your action
+•	 Flow check
+Decision
+•	 Check gas supply
+•	 Continue or terminate the dive
+Lost Resources
+None
+Left regulator not repairable
+Likely problem
+•	 Blown o-ring
+•	 Blown hose
+Your Action
+•	 Switch light to a temporary hold
+•	 Signal your partner and close the left valve
+•	 Purge the alternate regulator
+•	 If there are no bubbles the problem is temporar-
+ily solved
+Partner Action
+
+
+--- Page 16 ---
+12     | Global underwater explorers
+•	 Confirms which regulator you are breathing 
+from
+•	 Opens the left valve slowly
+•	 Checks for bubbles
+•	 Confirms it is not repairable
+•	 Closes the left valve
+•	 Taps you on left shoulder or arm and indicates 
+that it broken
+Your action
+•	 Flow check
+Decision
+•	 Terminate the dive
+Lost resources
+•	 Alternate regulator
+•	 Dry suit inflator
+•	 SPG
+Left side manifold not repairable
+Likely problem
+•	 Burst disk
+•	 Tank O-ring
+•	 Barrel O-ring
+•	 Valve failure
+Your Action
+•	 Switch light to a temporary hold
+•	 Signal your partner and close the left valve
+•	 Purge the alternate
+•	 Listen for bubbles to stop
+•	 If bubbles are still present:
+ º Close isolator
+•	 Bubbles will still be present so call in partner to 
+investigate
+Partner Action
+•	 Confirms which regulator you are breathing 
+from
+•	 Checks to ensure that you have completely closed 
+the isolator
+•	 Confirms that it is broken/not repairable
+•	 Taps you on the left shoulder or arm and signals 
+that it is broken
+Your action
+•	 Flow check
+Decision
+•	 Terminate the dive
+Lost resources
+•	 Alternate regulator
+•	 Dry suit inflator
+•	 SPG
+Note: The left side will continue to bubble until gas 
+has been expended from the LH cylinder.
+Erroneous right-side manifold
+Failure is on the left
+Your Action
+•	 Signal your partner and close the right valve
+•	 Breathe or purge the long hose dry
+•	 Switch to the alternate regulator
+•	 Listen for bubbles to stop
+•	 Clip off primary
+•	 If bubbles are still present:
+ º Close isolator
+•	 There will still be bubbles present so call in 
+your partner to investigate
+Partner Action
+•	 Confirms the regulator that you are breathing 
+from
+•	 Checks to ensure that you have completely closed 
+the isolator
+•	 Confirms that it is a left side failure
+•	 Opens the right valve
+
+
+--- Page 17 ---
+Val Ve Manual  | 13
+•	 Unclips and purges the primary and signals you 
+to switch regulators
+Your action
+Switch back to the primary
+Partner action
+•	 If the failure is the left regulator
+ º Closes the left valve (bubbles will stop) 
+and repairs if possible. [If it is repairable 
+then do so and complete the drill as per 
+a left regulator repairable drill. If it is not 
+repairable then leave the left valve in the 
+closed position and continue on with the 
+remainder of this drill]
+ º Opens the isolator
+ º Taps you on the left shoulder or arm to 
+indicate a non repairable alternate regula-
+tor failure
+•	 If the failure is the left side of the manifold
+ º Taps you on the left shoulder or arm to 
+indicate a non repairable manifold failure
+Your action
+•	 Flow check
+Decision
+•	 Terminate the dive
+Lost resources
+•	 Depends upon whether the failure is fixable or 
+not
+Erroneous left-side manifold
+Failure is on the right
+Your Action
+•	 Switch light to a temporary hold
+•	 Signal partner and close the left valve
+•	 Purge the alternate regulator
+•	 Listen for bubbles to stop
+ º Still bubbling:
+•	 Close isolator
+•	 There will still be bubbles present so call in 
+your partner to investigate
+Partner Action
+•	 Confirms the regulator that you are breathing 
+from
+•	 Checks to ensure that you have completely closed 
+the isolator
+•	 Confirms that it is a right side failure
+•	 Opens the left valve
+•	 Purges alternate and signals and  signals you you 
+to switch regulators
+Your action
+•	 Switch to alternate
+•	 Clip off long hose
+Partner action
+•	 If the failure is the right regulator
+ º Closes right valve (bubbles will stop) and 
+repairs if possible. [If it is repairable then 
+do so and complete the drill as per right 
+regulator repairable. If it is not repairable 
+then leave the right valve in the closed 
+position and continue on with the re-
+mainder of this drill]
+ º Opens the isolator
+ º Taps you on the right shoulder or arm to 
+indicate a non-repairable primary regula-
+tor failure
+•	 If the failure is the right valve/manifold
+ º Taps you on the right shoulder or arm to 
+indicate a non-repairable primary regula-
+tor failure (there will still be bubbles)
+Your action
+•	 Flow check
+Decision
+•	 Terminate the dive
+Lost resources
+•	 Depends on whether the failure is fixable or not
+Note: Bubbles will continue until right tank is empty
+
+
+--- Page 18 ---
+14     | Global underwater explorers
+No idea where the gas is coming from.
+Your Action
+Execute a right regulator repairable drill until the prob-
+lem has been properly dealt with.
+Miscellaneous valve procedures
+As well as the drills listed previously there are a few 
+other routine procedures or awareness checks that 
+should be done on a regular basis during the conduct 
+of diving operations:
+Flow Check
+When to do a flow check:
+•	 Pre-dive
+•	 After “S” and Valve drills
+•	 During a technical dive:
+ º Upon reaching the bottom during an 
+technical dive
+ º Approximately every five minutes
+ º Midway through the dive
+•	 Anytime your valves or manifold contacts some-
+thing solid
+•	 Anytime that makes you feel comfortable
+Roll-off Awareness
+After passing off your primary or failure of your primary
+Isolator Awareness
+Pressure gauge not registering a decrease as gas is being 
+consumed.
+Afterword
+While this document contains a fairly complete descrip-
+tion of all the possible manifold failures and the methods 
+involved in solving them it is by no means a complete 
+reference as to everything that could go wrong. Flex-
+ibility and careful thought should be the order of the 
+day when attempting to discern manifold issues. As 
+with any endeavour—practice makes perfect.
+
+
+--- Page 19 ---
+Val Ve Manual  | 15
+Annex A - Manifold Parts Lists
+1. Burst Disk Assembly consistiong of
+•	 Burst disk cap nut
+•	 Burst disk(Halcyon part#) ...... 64.000.015
+•	 Washer
+•	 Single piece 300 bar(not shown)...... AA-62
+2. Tank neck ‘O’ ring ................... R214
+3. Tube (snorkel)
+4. Valve Body
+5. Valve Seat....................... AA96-D
+6. Valve Stem ‘O’ ring................... R010
+7. Split bushing(Halcyon part#) ...... 64-000-003
+8. Valve stem....................... AA96-E
+9. Thick teflon bushing............... AA96-A
+10. Valve stem nut ‘O’ ring................ R014
+11. Valve stem nut ................... AA96-C
+12. Washer ......................... AA96-K
+13. Handwheel(Rubber Generic) .......... AA85
+14. Spring ............................. A152
+15. Spring retaining nut .................. A151
+16. Isolator barrel ‘O’ rings................ R012
+17. Isolator locking nuts
+18. Halcyon manifold rebuild kit . . . . . . .64.010.020
+Description Trident Part# Description Trident Part#
+Burst Disk Assembly
+Burst disk cap nut
+Burst disk
+Washer
+Valve Body
+Spring retaining nut
+Spring
+Handwheel
+Washer
+Valve stem nut
+Valve stem nut ‘O’ ring
+Thick te/f_lon bushing
+Valve stem
+Split bushing
+Valve stem ‘O’ ring
+Valve Seat
+Tank neck ‘O’ ring
+Tube (snorkel)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Figure 4.1: exploded diagram of a Halcyon 300 Bar left valve assembly. Photo courtesy of Karim Hamza.
+
+
+--- Page 20 ---
+16     | Global underwater explorers
+While most manifolds use interchangeable parts, be cautious and ensure that you are using the correct part 
+for the job at hand as recommended by the manufacturer. Given the enormous energy that a SCUBA cylinder 
+contains, inviting catastrophic failure though carelessness should not be considered. A few divergent features 
+of the Halcyon manifold pictured in this document should be noted.
+Some manifolds use a burst disk that is integrated into the cap nut. In Figure 4.2, a Halcyon burst disk assem-
+bly is illustrated. The burst disk is a dimpled copper disk that is held in place by a vented cap nut. There are 
+two main benefits to a this separate arrangement:
+1. Cost - the simple copper disk is less expensive to replace
+2. Flexibility - the burst disk rated pressure can be varied by replacing the disk.1 
+The other major divergence is the construction of the valve stem. The Halcyon valve stem has an integrated 
+shoulder that protects the valve stem O-ring buy placing the split bushing (part 7) and then the O-ring(part 
+6) itself in the groove behind the head of the valve stem. This protects this very critical O-ring from undue 
+wear and tear. There are an number of valve stems on the market that do not incorporate this feature. For those 
+units the split bushing is not required. Simply slip the valve stem O-ring (part 6) followed by the thick Teflon 
+bushing(part 9) on to the shaft of the valve stem.
+1  It is essential that you replace a blown burst disk with one with the correct rating for the pressure vessel for which it is being 
+used. Failure to do so can result in injury or death!
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16 17
+Isolator Body
+Spring retaining nut
+Isolator barrel ‘O’ Rings Isolator locking nut
+Spring
+Handwheel
+Washer
+Valve stem nut
+Valve stem ‘O’ ring
+Thick te/f_lon bushing
+Valve stem
+Split bushing
+Valve stem nut  ‘O’ ring
+Valve Seat
+Figure 4.2: exploded diagram of a Halcyon 300 Bar isloator assembly. Photo courtesy of Karim Hamza.
+
+
+--- Page 21 ---
+Val Ve Manual  | 17
+
+
+--- Page 22 ---
+Global Underwater Explorers, 15 South Main Street, High Springs, FL 32643, USA, (386) 454-0820, info@gue.com
+Gue Val Ve Manual

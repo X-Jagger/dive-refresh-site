@@ -1,0 +1,1144 @@
+Standard Operating Procedures
+          Version 3.0
+GUE Standard Operating Procedures
+
+© 2017 Global Underwater Explorers
+
+
+
+
+Notice of Rights:
+
+All rights reserved. No part of this book may be reproduced or transmitted in any form by any
+means, electronic, mechanical, photocopying, recording, or otherwise without the prior written
+permission of the publisher. For information on obtaining permission for reprints and excerpts,
+contact info@gue.com.
+
+Notice of Liability:
+
+The information in this book is distributed on an “As Is” basis, without warranty. While every
+precaution has been taken in the preparation of this book, neither the author nor Global
+Underwater Explorers shall have any liability to any person or entity with respect to any loss or
+damage caused or alleged to be caused directly or indirectly by the instructions contained in this
+book.
+
+Trademarks:
+
+GUE is a registered trademark of Global Underwater Explorers in the United States and other
+countries.
+
+
+
+
+2                                                                       GUE Standards and Procedures
+                                                                                          Version 3.0
+Contents
+Part 1: Routine Diving Operations ................................................................. 5
+   Ascent Rate Protocol ............................................................................................................................................... 5
+
+   Bottle Rotation Protocol ........................................................................................................................................ 6
+
+   Cave Navigation and Marking Protocol ............................................................................................................ 6
+
+   Decompression Computers ................................................................................................................................... 7
+
+   Flow Check (Modified Valve Drill) ...................................................................................................................... 7
+
+   Flying After Diving .................................................................................................................................................... 8
+
+   Gas Analysis ................................................................................................................................................................ 8
+
+   Gas Planning................................................................................................................................................................ 9
+
+   Gas Switch Procedures ........................................................................................................................................ 10
+
+   Hypoxic Protocol .................................................................................................................................................... 11
+
+   Light Head Management ..................................................................................................................................... 13
+
+   Modified Safety Drill (Modified S-Drill) ......................................................................................................... 13
+
+   Situational Awareness Check ............................................................................................................................ 14
+
+   SMB Deployment ................................................................................................................................................... 14
+
+   Stage Diving Procedures (Cave)........................................................................................................................ 15
+
+   Survey......................................................................................................................................................................... 16
+
+   Team Positioning .................................................................................................................................................... 17
+
+   Valve Drill ................................................................................................................................................................. 17
+
+
+
+
+ GUE Standards and Procedures                                                                                                                                                      3
+ Version 3.0
+Part 2: Emergency Procedures ......................................................................20
+    Broken Guideline.................................................................................................................................................... 20
+
+    Donation to an Out-of-Gas Diver: Safety or S-Drill ................................................................................... 20
+
+    Excessive Buoyancy due to Equipment Failure ........................................................................................... 22
+
+    Line Entanglement ................................................................................................................................................. 23
+
+    Loss of Decompression Gas ................................................................................................................................ 23
+
+    Lost Line Drill (Cave) ............................................................................................................................................. 24
+
+    Loss of Visibility (Cave) ........................................................................................................................................ 25
+
+    Loss of Visibility while Sharing Gas (Cave) .................................................................................................... 25
+
+    Missing Diver ........................................................................................................................................................... 25
+
+    Omitted Decompression ..................................................................................................................................... 26
+
+    Primary Light Failure ............................................................................................................................................ 27
+
+Change Log .............................................................................................................28
+    Version 2.0.2 to 3.0 ................................................................................................................................................ 28
+
+
+
+
+4                                                                                                                             GUE Standards and Procedures
+                                                                                                                                                Version 3.0
+Part 1: Routine Diving Operations
+
+Ascent Rate Protocol
+
+The following are guidelines for use in calculating various ascent rates and profiles. Divers should
+take caution that the on-site environment will ultimately determine the final shape of the profile.
+This is a team process, and all team members must participate. When feasible and practical, the
+last stop should be conducted at 6 m/20 ft, followed by a slow ascent of 1 m/3 ft per minute to the
+surface.
+
+During recreational dives, the last stop should be conducted at 3 m/10 ft (if conditions permit),
+followed by a slow controlled ascent.
+
+Recreational Diver 1 and 2, Fundamentals
+
+The following procedures guide ascent strategy for dives that follow GUE minimum
+decompression limits.
+
+    1. Calculate 50% of the average depth of the dive. If the calculated stop is not in an increment
+       of 3 m/10 ft, move the stop to the next shallower increment.
+    2. Ascend at 9 m/30 ft per minute to the calculated depth.
+    3. At 50% of average depth (or the calculated increment), reduce the ascent rate to 3 m/10 ft
+       per minute.
+    4. For practical reasons, the 3 m/10 ft per minute ascent rate is executed as a 30-second stop
+       and 30 seconds of movement to the next 3 m/10 ft interval.
+
+Recreational Diver 3, Technical Diver 1 and 2
+
+The following procedures guide GUE diver decompression during GUE courses with mandatory
+decompression stops, and should also guide non-training dives. This procedure is not relevant for
+dives following Minimum Decompression Limits (MDLs).
+
+    1. Calculate profile using 20/85 GF in DecoPlanner (DP). Note the max stop depth reported
+        in DP; estimate using 75% of the average depth (50% for Rec 3). No stops should be
+        conducted below max stop depth.
+    2. Ascend at 9 m/30 ft per minute to the first DP stop (or gas switch, if relevant) and continue
+       with DP profile. Adjust ascent speed as needed to maintain team control. Be aware that
+       any delay in this zone adds to the total decompression obligation.
+
+
+
+
+ GUE Standards and Procedures                                                                       5
+ Version 3.0
+Adjustments to decompression profiles are permissible if considered within DecoPlanner.
+Examples of adjustments include adding time during a gas switch, reorganizing stops for strategic
+or convenience reasons, or slowing the ascent to maintain control or manage the needs of the
+team.
+
+
+Bottle Rotation Protocol
+
+    1. Stabilize at chosen depth.
+    2. Clip light off and stow in temporary position.
+    3. Place the light cord under the long hose and the waist strap.
+    4. Unclip the tail of the bottle that is to be rotated back.
+    5. Unclip the leash and move it forward.
+    6. Unclip the nose of the bottle that is to be rotated back.
+    7. Clip to leash.
+    8. Choose the bottle to be moved from the leash to the left chest D-ring.
+    9. Clip it to the left chest D–ring.
+    10. Clip the leash onto the left hip D-ring and push other leashed bottles behind.
+    11. Clip the tail of the bottle that was moved up onto the left hip D–ring.
+    12. Move light back to primary position.
+
+
+
+Cave Navigation and Marking Protocol
+
+       Divers should always use the guideline to travel and reference their location.
+       It is the team’s responsibility to always ensure that it is following a continuous guideline.
+       Ideally, divers should never be further than arm’s reach from the guideline. Some scenarios
+        where this would not be practical include high-flow caves and areas where the line is close
+        to the floor and the distance to the ceiling is high (assuming good visibility exists).
+       Jumps, permanent intersections, and initial change of direction markers are marked by all
+        team members.
+       Non-directional markers (cookies) should be placed on the exit side of the intersection.
+       Directional (arrows) and non-directional markers do not need to be numbered, but should
+        be labeled with the initials of the diver placing them.
+       Visual jumps, blind circuits/traverses, and “trust me” dives must be avoided.
+
+
+
+
+6                                                                          GUE Standards and Procedures
+                                                                                             Version 3.0
+Decompression Computers
+
+GUE has a long history of skepticism towards decompression computers. In most cases, these
+reservations have been justly deserved, as computers have historically produced ill-conceived and
+sometimes even potentially dangerous profiles. Reliability was also a common problem over many
+years. More recently, the technical capacity and reliability of dive computers has greatly
+improved, and today decompression computers can provide a very close approximation of current
+GUE diving protocols.
+
+Despite the progress, decompression computers remain problematic in certain types of diving,
+with different computers sometimes producing vastly different outcomes. Some of these profiles
+are arguably as bad as those calculated by older computers, while others are quite similar to those
+being conducted daily in GUE diving activities.
+
+Another potential negative aspect of computers is that divers may become dependent on them,
+and thus progressively more ignorant of the process of determining their decompression. New
+divers might also never become truly conversant in this process, given their lack of history with
+detailed planning. This would be unfortunate and potentially dangerous, eroding GUE training and
+protocols, which should produce divers that are empowered to operate safely and efficiently and
+with full knowledge of those operations.
+
+ Given the current landscape, GUE acknowledges that certain computers can be beneficial as
+secondary planning and assessment tools. GUE continues to assert the absolute necessity of
+maintaining robust knowledge of decompression planning as well as the ability to calculate
+profiles “on the fly,” such as during emergency situations or as a means to efficiently manage their
+decompression profiles. These aspects must remain part of GUE educational programs and all
+instructors are required to assert that this important skill remains part of the GUE knowledge
+base. GUE divers are also required to use these procedures as the primary means of
+decompression planning. When used as a secondary source of information, any decompression
+computer selected should closely mirror DecoPlanner while using gradient 20/85, as is the case
+with all GUE decompression diving.
+
+
+Flow Check (Modified Valve Drill)
+
+Designed as a method of quickly confirming that all valves are in the correct position to conduct
+the dive, this procedure is a modified valve drill and is normally completed as part of the pre-dive
+sequence. When the diver is carrying stages, an argon bottle, and/or deco bottles the flow check is
+expanded to include these items as well. A comprehensive flow check is conducted as follows:
+
+   1. Rotate the right post valve to ensure it is fully open.
+
+
+
+
+ GUE Standards and Procedures                                                                      7
+ Version 3.0
+    2. Rotate the isolator valve to ensure it is fully open.
+    3. Move the primary light to your right hand.
+    4. Rotate the left post valve to ensure it is fully open.
+    5. Keep working to the left and ensure any stages you have clipped off are pressurized and
+       fully closed.
+    6. Return primary light to normal position.
+
+
+
+Flying After Diving
+
+       Follow the current DAN recommendations.
+                 http://www.diversalertnetwork.org/
+                 https://www.daneurope.org
+                 http://www.danasiapacific.org
+       Cross check with the computer, software, or tables used to plan the dive.
+
+
+
+Gas Analysis
+
+Double Tanks
+
+A diver should personally analyze all their tanks on the day of the dive.
+
+    1. Verify that the isolator valve is fully open.
+    2. Slightly open the right valve to create a slow, steady flow of gas.
+    3. Use a properly calibrated analyzer and wait for the readings to stabilize.
+    4. Write the analysis results (to one decimal place) on a sticker and add your initials, the
+       current date, and, if feasible, the tank pressure.
+    5. Place the sticker on the right tank between the valve orifice and the valve knob, so it can
+       be seen clearly by your teammates.
+    6. If you have not already done so, verify the tanks are filled to the desired pressure.
+
+Single Tank
+
+A diver should personally analyze all their tanks on the day of the dive.
+
+    1. Slightly open the valve to create a slow, steady flow of gas.
+    2. Use a properly calibrated analyzer and wait for the readings to stabilize.
+
+
+
+
+8                                                                        GUE Standards and Procedures
+                                                                                           Version 3.0
+   3. Write the analysis results (to one decimal place) on a sticker and add your initials, the
+       current date, and, if feasible, the tank pressure.
+   4. Place the sticker on the tank between the valve orifice and the valve knob, so it can be seen
+      clearly by your teammates.
+   5. In the case of stage and/or decompression bottles, the sticker should be placed so the user
+      can read it while the tank is clipped.
+   6. If you have not already done so, verify the tank is filled to the desired pressure.
+
+
+
+Gas Planning
+
+Open Water
+
+Any time a dive team is planning a dive in an open water environment, the team should reserve
+enough gas to safely manage an out-of-gas (OOG) scenario. This amount, known as minimum gas,
+is the amount of gas required for two divers to ascend from the bottom to the first available gas
+source.
+
+Minimum gas is calculated using the CAT formula, where:
+
+      C stands for consumption for 2 divers (except when planning rebreather dives).
+      A stands for average depth (between maximum depth and the surface for minimum
+       decompression dives, or maximum depth and the first gas switch depth for decompression
+       dives)
+      T stands for time (needed to travel between the maximum depth and the next available gas
+       source at 3 m/min or 10 ft/min).
+
+Further planning will depend on environmental conditions and the type of the dive. Depending on
+these factors, planning can be based on all usable, half usable, or one third usable gas rules.
+
+Cave
+
+Gas planning for cave diving presents some unique gas management issues. In general,
+experienced divers (such as Cave 2 level and above), employ the rule of thirds, which can be
+modified to be as conservative as the environmental conditions demand.
+
+However, when planning Cave 1 dives more gas is needed to accommodate for divers who are still
+building their skills and awareness. While the rule of thirds is adequate for divers with more
+experience, this volume may not be sufficient for novice divers who encounter a problem requiring
+
+
+
+
+ GUE Standards and Procedures                                                                       9
+ Version 3.0
+additional gas. In order to ensure that adequate reserves are maintained, all Cave 1 dive gas
+volumes are calculated using the following formula:
+
+     1. Dives must start with a minimum volume of 2800 L/100 ft3
+     2. The diver will reserve 1/3 of this total gas as reserve.
+     3. Then, subtract the reserve gas amount from the total available gas to get the amount of
+        usable gas.
+     4. 1/3 of the usable gas volume from the preceding calculation may be used for the
+        penetration phase of the dive.
+     5. Normal gas matching rules still apply for similar/dissimilar tank configurations.
+
+
+
+Gas Switch Procedures
+
+Back Gas
+
+Switching Diver’s Actions
+
+     1. Attract teammates’ attention and signal that you are going to switch to back gas.
+     2. Clip light off and stow in temporary position. If the switch to back gas has been forced by a
+        stage failure, clipping the light at this point might not be desirable and can be performed at
+        a later stage of this sequence.
+     3. Locate, unclip, and purge the primary regulator with the right hand.
+     4. Grasp the deco or stage regulator with the left hand.
+     5. In one smooth movement, exchange regulators.
+     6. Take a few breaths from the primary regulator to ensure its proper operation.
+     7. Fully close the decompression or stage cylinder valve (this may be performed after stowing
+        the hose).
+     8. Stow the decompression or stage regulator.
+     9. Deploy the primary light if needed (based on environment).
+     10. Check back gas pressure.
+
+Teammates’ Responsibilities
+
+• Observe the diver who is switching to back gas.
+• Maintain environmental awareness.
+
+
+
+
+10                                                                        GUE Standards and Procedures
+                                                                                            Version 3.0
+Decompression or Stage Cylinder
+
+Switching Diver’s Actions
+
+   1. Stabilize at switch depth.
+   2. Signal the team that you are going to perform a gas switch.
+   3. Clip light off and stow in temporary position.
+   4. Identify the correct bottle using the MOD label.
+   5. Keep your hand on the valve of the chosen bottle.
+   6. Pressurize regulator and return valve to the closed position.
+   7. Deploy second stage regulator.
+   8. Trace the second stage back to the first stage.
+   9. Press purge button on second stage and confirm dropping needle on SPG.
+   10. Open valve fully.
+   11. While keeping the stage regulator in front of you, present MOD markings and ask for
+       confirmation from teammate.
+   12. After confirmation, verify depth and switch to deco gas.
+   13. Take a few breaths from the stage regulator to ensure its proper operation.
+   14. Clip off primary.
+   15. Replace light in normal position.
+
+Teammates’ Responsibilities
+
+   1. Observe the diver who is switching to back gas. When asked to confirm deco gas selection:
+           a. Did the diver open the valve after the pressure interruption check?
+           b. Trace second stage back to first stage.
+           c. Check that depth matches MOD.
+           d. Signal the diver to switch.
+   2. As soon as the last team member finishes his gas switch, communicate the decompression
+       time and start the timer.
+
+
+
+Hypoxic Protocol
+
+This protocol refers to hypoxic mixes, which can cause a diver to lose consciousness when
+breathed on or near the surface with an excessively low pO2 .
+
+
+
+
+ GUE Standards and Procedures                                                                11
+ Version 3.0
+The hypoxic zone is defined by GUE as the area between the surface and 6 m/20 ft when dived
+with any hypoxic gas from the GUE Standard Gases table. When such a mix is used for a dive, the
+team must address the risk by calculating the range of the hypoxic zone to manage the risk with
+appropriate measures for both the descent and the ascent portions of the dive.
+
+For non-standard gas mixes, the hypoxic zone is calculated using a pO2 threshold of 0.15. The
+calculation is based on the diver within the team that has the gas with the lowest oxygen content.
+For example, for a 10% oxygen mix, the hypoxic zone will be from 6 m/20 ft to the surface.
+
+Divers must recognize that a pO2 of 0.15 can produce hypoxic symptoms if breathed under
+exertion and/or for prolonged periods of time. During these conditions, a more conservative
+approach should be applied, including using a higher pO2 mixture within the hypoxic zone. Such a
+mixture will usually be the deepest decompression gas carried for the dive. It is also important to
+ensure that the team accounts for additional gas reserves to ensure that any loss of
+decompression gas will not prevent a safe ascent with a proper gas mixture. This is usually
+accomplished by reserving additional gas (roughly 70 bar/1000 psi) in each member’s
+decompression cylinder. During such dives it is advisable that support divers are used in order to
+manage the possibility of unconsciousness.
+
+The complete hypoxic protocol is as follows:
+
+     1. Descend through the hypoxic zone using deepest decompression gas available.
+     2. Stabilize the team at 9 m/30 ft (depth may be adjusted based on environment).
+     3. Stow the primary light in the temporary position.
+     4. Switch to back gas and stow travel gas.
+     5. Perform checks (situation dependent) including:
+            a. Modified valve drill (flow check)
+            b. Modified S-drill
+            c. Bubble check, including hip D-ring check for any potential cross linking of stage
+               clips
+     6. Switch to bottom stage (or back gas, if relevant).
+     7. Move the light back to primary position.
+     8. When ascending, the team will travel through the hypoxic zone using oxygen.
+
+
+
+
+12                                                                      GUE Standards and Procedures
+                                                                                          Version 3.0
+Light Head Management
+
+There are four typical positions for the light head.
+
+    1. Normal position: the light head is held in the left hand.
+    2. Temporary hold: the light head is momentarily held in the right hand.
+    3. Temporary position: the light head is clipped with a double ender attached to loop at the
+       rear of the light head. The light cord is stowed behind the long hose and under the
+        waistband.
+    4. Permanently clipped: the light head is switched off and clipped to the right chest D-ring
+        using a permanent bolt snap. The light cord is stowed behind the long hose and under the
+        waistband. This has the ramification that during open water ascents, the normal position
+        (left hand) should be preferred rather than the temporary position.
+
+The light should be in the temporary position during bottle rotations, gas switches, SMB
+deployments, etc., but the diver should redeploy the light to the normal position once the drill has
+been completed so that its value as a communication tool is not diminished. Remember that when
+a light has been clipped off or deployed, the diver must make an integrity check.
+
+    1. When light is clipped off: long hose integrity (hand following long hose down under light
+       canister).
+    2. When light is deployed: light cord integrity (hand following the light cord down to the light
+       canister lid).
+
+
+
+Modified Safety Drill (Modified S-Drill)
+
+While this drill is also incorporated into the GUE pre-dive sequence, it is a stand-alone exercise
+that should also be conducted any time a diver has adjusted their main equipment configuration.
+Ideally, it is conducted on the surface, but may, depending on the environment, be done at a
+shallow depth or on land. It is used to ensure that the donor’s long hose is readily deployable in the
+event of an OOG situation.
+
+Each diver will:
+
+    1. Deploy the long hose.
+    2. Switch to the alternate/backup regulator.
+    3. Grasp the primary regulator with the left hand.
+    4. Move the long hose from under the light canister (or free of the waistband if no light is
+       being used).
+
+
+
+ GUE Standards and Procedures                                                                       13
+ Version 3.0
+     5. Clear the long hose and verify that it is positioned over the right shoulder and has an
+        unobstructed path to the primary regulator.
+     6. Once a partner has confirmed that the long hose is indeed free and unobstructed, return
+        the long hose to the stowed position.
+
+
+
+Situational Awareness Check
+
+The purpose of a situational awareness check, or “sit check,” is to create a real-time snapshot of
+the current state of the dive. It is encouraged that a sit check is conducted at the start of the dive
+and approximately every fifteen minutes thereafter, or when reasonable. The sit check should
+only take about 15 to 20 seconds and can be conducted “on the fly.” A sit check should be
+conducted as follows:
+
+     1. Initiate the check with a flow check.
+     2. Track exposure by determining bottom time and average depth.
+     3. Track gas consumption by checking the relevant SPG and noting the pressure.
+     4. Make a quick situational awareness scan, monitoring any changes to the team,
+        environment, or equipment.
+
+This procedure is one of the most valuable tools in a diver’s toolbox during the in-water portion of
+a dive. Frequent use of the sit check in the manner described above allows the diver to quickly
+gauge and update consumption, comfort, planning, and dive execution accuracy, as well as
+generally improving their awareness of all aspects of the dive.
+
+Note: If using an RB80, the diver should also check the switch block to ensure that all valves are in
+the correct position and the proper gas is plugged in.
+
+
+SMB Deployment
+
+A surface marker buoy (SMB) is primarily used as a signaling device so the surface support
+personnel can locate and recover a dive team or to warn surface vessels that divers are ascending
+from below. It can also be used as a communication tool to indicate simply “we are OK” if team
+recovery is not the primary goal. The nature of the dive will determine when and how the SMB is
+deployed. It is conducted as follows:
+
+     1. The team aligns in whatever formation the environment dictates.
+     2. The diver responsible for the deployment of the SMB will indicate this by signaling “SMB
+        deployment” to the team.
+
+
+
+
+14                                                                         GUE Standards and Procedures
+                                                                                             Version 3.0
+   3. Then, this diver will:
+           a. Stow their primary light in the temporary position, with the light cord placed under
+              the long hose and the waist strap.
+           b. Locate the SMB and a spool of appropriate size (Note: If the spool and SMB have
+              not been pre-attached, then the diver will do so now using whatever method they
+              choose, as per training).
+           c. Unclip the double ender from the spool and clip it to the right chest D–ring.
+           d. Ensure that there is no line hanging out from the spool and that they are holding
+              the SMB and spool in a firm grip.
+           e. Undo any elastic loop or Velcro closures that may constrain the SMB.
+           f.   Look up for any obstruction.
+           g. With the left hand, gather the spool and valve. With the right hand, remove the
+              primary regulator from the mouth and inflate the SMB with about 1/2 the capacity
+              of their lungs.
+           h. Replace the primary regulator, taking care not to breathe yet.
+           i.   Move the spool and SMB to an arm’s length away from the body, then release the
+                SMB and breathe, taking care that the spool runs smoothly between the thumb and
+                forefinger of their left hand, which should be held over the center hole of the spool.
+                When the SMB reaches the surface, re-spool any slack line and either use the clip
+                previously attached to the D-ring or the hand to put tension on the line.
+   4. As the team rises through the water column, the diver in charge of the SMB will take in line
+       on the ascent to match the rate of ascent as appropriate. The spool line must not be
+       allowed to go slack during the ascent. During prolonged stops, the diver in charge of the
+       SMB may clip the double ender to the spool in such a manner that it captures the up-line in
+       a hole in the spool.
+
+The above procedure describes the use of a closed-circuit SMB. If the team is using an open circuit
+SMB, then the procedure is identical except for the method used to inflate the SMB. In this case,
+air is introduced into the SMB from the exhaust bubbles of the primary regulator. The utmost care
+must be taken in order to control the line so that no entanglement occurs.
+
+
+Stage Diving Procedures (Cave)
+
+Stage Drop
+
+   1. Signal team.
+
+
+
+
+ GUE Standards and Procedures                                                                      15
+ Version 3.0
+     2. Clip light head to chest D-ring in a temporary position. Place the light cord under the long
+         hose and the waist strap.
+     3. Switch to long hose regulator while monitoring team members.
+     4. Turn off the valve and stow stage regulator.
+     5. Unclip the stage bottle, starting from the bottom clip.
+     6. Adjust buoyancy.
+     7. Drop and clip the stage cylinder on the guideline; the drop point must avoid fragile,
+        restricted, and sediment-prone areas.
+     8. Unclip light head and check back gas pressure.
+     9. Continue the dive.
+
+Stage Pick Up
+
+     1. Signal team.
+     2. Clip light head to chest D-ring in a temporary position. Place the light cord under the long
+        hose and the waist strap.
+     3. Unclip and pick up stage cylinder from the guideline.
+     4. Adjust buoyancy.
+     5. Clip off the stage bottle, starting from the upper clip.
+     6. Switch to stage cylinder regulator while following the standard gas switch procedure.
+     7. Unclip light head.
+     8. Continue to exit or dive.
+
+
+
+Survey
+
+        Surveys are typically conducted during the penetration portion of the dive.
+        The primary light can be temporarily clipped while taking measurements and the team can
+         assist with lighting.
+        Basic measurements include:
+               Depth
+               Distance
+               Azimuth
+        Maintain a good pace and control.
+        The survey site should reflect the capabilities of the dive team.
+
+
+
+
+16                                                                           GUE Standards and Procedures
+                                                                                               Version 3.0
+Team Positioning
+
+The environment in which a particular dive is being conducted will largely dictate dive
+characteristics such as team formation in either single file (cave environment) or wing position
+(open water environment). However, distance between divers and distance from a point of
+reference when failures or emergencies arise can use these predetermined team configurations to
+greatly reduce confusion, thus reducing overall team stress. Here are some examples.
+
+      When experiencing failures in a cave environment, reorder the team in the manner that
+       best supports the diver with the problem.
+      Where the team members have lights of variable intensity, the team can adjust to keep the
+       brightest light in back. This diver would be placed in the third position on the way in and
+       will also take this position on the way back out.
+      It is very rare for a team to experience more than one major failure. It is usually simple to
+       reorganize the team in a manner that provides the maximum support for the stressed
+       diver. The following guidelines should be considered when a situation forces a team to
+       reorganize:
+                 The diver in the greatest difficulty is generally placed in the middle position
+                 Gas problems are assigned the highest priority
+                 Equipment issues can usually be readily dealt with; however, they must not be
+                  treated lightly, no matter how trivial. The team should reorganize in a manner that
+                  both accommodates the affected diver and keeps the problem in the team’s focus.
+                 No matter what the issue, the stressed diver is placed in a protected position until
+                  the dive is over or a higher priority situation arises.
+
+Given the clearly impossible task of attempting to document and articulate all possible emergency
+scenarios, both single and multiple failure, it is of paramount importance that a great degree of
+flexibility be exercised by all team members as situations deteriorate. It is with this in mind that
+teams may be forced into using significant creative thought based on the principles listed above to
+ensure that all team members safely complete the dive.
+
+
+Valve Drill
+
+Double Tanks
+
+This procedure is used to ensure the correct positioning of all valves, the diver’s capacity to
+operate the valves, and the proper operation of the primary and secondary regulators. To master
+
+
+
+
+ GUE Standards and Procedures                                                                          17
+ Version 3.0
+the valve drill, a diver must first develop solid situational awareness and robust fundamental
+diving skills, including buoyancy control, trim, and maneuvering techniques.
+
+Before starting the valve drill, the team assumes a formation as dictated by the environment. The
+diver who is conducting the drill will signal to one of their teammates to watch them while they
+execute the drill. The teammate will assume a ready state (be prepared to donate) and indicate
+OK.
+
+The diver executing the drill will:
+
+     1. Purge the backup regulator to ensure a viable gas source.
+     2. Reach up with their right hand and close the primary valve while signaling for attention
+        with primary light.
+     3. Breathe the long hose dry.
+     4. Remove the primary regulator from their mouth with right hand.
+     5. Place the backup regulator in their mouth with the left hand.
+     6. Clip off the primary to the right chest D-ring.
+     7. Pause.
+     8. Reach back with their right hand and rotate the primary valve to the fully open position.
+     9. Locate the primary regulator. Unclip, purge, remove the backup regulator using their left
+        hand, and replace it with the primary regulator.
+     10. Pause.
+     11. Reach back with their right or left hand and rotate the isolator to the fully closed position
+         while signaling with the primary light, then rotate it to the fully open position.
+     12. Pause.
+     13. Move primary light to a temporary hold in the right hand.
+     14. Reach up with their left hand and fully rotate the left valve to the closed position while
+         signaling with the primary light.
+     15. Fully purge the backup regulator.
+     16. Rotate the left post to the fully open position.
+     17. Purge the backup regulator to ensure that it is functioning.
+     18. Move primary light back to normal position.
+     19. Conduct a final flow check, including any additional tanks such as stage, deco, or drysuit
+         bottles.
+
+
+
+
+18                                                                          GUE Standards and Procedures
+                                                                                              Version 3.0
+Single Tank
+
+This drill is used to confirm the valve position and that the single tank diver has the dexterity and
+ability to accurately locate and manipulate the on/off valve in the situation of inadvertent closure.
+Since the single tank diver only has one possible air source, it is absolutely critical that at no time
+does the diver close the valve.
+
+The drill is conducted as follows:
+
+    1. The team assumes a formation as dictated by the environment.
+    2. The diver who is conducting the drill will signal to one of their teammates to watch them
+        while they execute the drill.
+    3. The teammate will assume a ready state (be prepared to donate) and indicate OK.
+    4. The working diver will:
+              a. Reach up with their right hand and locate the valve.
+              b. Demonstrate their ability to manipulate the valve (flow check the valve, do not
+                 close).
+
+
+
+
+ GUE Standards and Procedures                                                                        19
+ Version 3.0
+Part 2: Emergency Procedures
+
+Broken Guideline
+
+     1. Stop and stabilize your position.
+     2. Signal the team.
+     3. Establish a line-to-line connection between the loose end of the broken line and the safety
+        line.
+     4. Search for the other side of the line with the help of the team. The guideline is likely to be
+        near the bottom.
+     5. Fix the line permanently if time and conditions permit; if not, secure both ends of the line
+        and warn others entering the cave/wreck.
+
+
+
+Donation to an Out-of-Gas Diver: Safety or S-Drill
+
+Both divers will face each other (or triangle up in a team of three) and establish a neutral base
+(may be not possible in a real OOG scenario). It is important that all team members be included in
+any team decisions and team reformations. If there is a third team member involved in this drill,
+then it is their responsibility to monitor the situation, including depth/time and environmental
+conditions, as well as be prepared to render appropriate assistance during an OOG scenario.
+
+Initiating the Drill
+
+OOG Diver Action
+
+     1. Signal distress with light, with left hand if no primary light available, or gain team member
+        attention via touch contact.
+     2. Indicate OOG by slashing the right hand across the throat.
+     3. Identify and move towards the donor.
+     4. Do not remove the primary regulator from the mouth until donor’s regulator is available
+        for exchange.
+
+Donor Action
+
+     1. With the right hand, locate and grasp the primary regulator hose, taking care not to cover
+        the faceplate (purge button) of the regulator.
+
+
+
+
+20                                                                         GUE Standards and Procedures
+                                                                                             Version 3.0
+    2. With smooth yet decisive action, remove the primary regulator from the mouth, duck the
+        head and deploy the long hose over the head. Present the mouthpiece to the OOG diver.
+    3. With the left hand, locate the backup regulator, taking care not to capture the long hose
+       with the left arm, and place in mouth.
+    4. Maintain situational and environmental awareness.
+
+OOG Diver Action
+
+    1. Grasp the donated regulator (ideally with the left hand).
+    2. Replace your own primary regulator with the donor’s regulator.
+    3. Clip off the evacuated primary.
+    4. Secure the donated regulator by holding on to the hose.
+
+At this point, both divers should pause and stabilize while the donor ensures the OOG diver is OK via
+exchange of an OK signal from the OOG diver.
+
+Donor Action
+
+    1. Clear the light cord from the long hose in a counter-clockwise manner.
+    2. Fully deploy the long hose over the right shoulder.
+
+All Divers in the Team
+
+    1. Make a team decision on the action to be taken or direction to travel.
+    2. Assume an appropriate team formation.
+    3. Position the OOG diver slightly in front of the donating diver and initiate touch contact (in
+       case of a third team member, this diver should be positioned slightly in front or to the side
+       of the OOG diver thus “boxing in” the OOG diver during travel.
+    4. Route the hose for easy travel. Both the OOG diver and donor are responsible for
+       controlling the hose at all times:
+               With the donor to the right of the OOG diver, the long hose will feed straight from
+                the regulator. Both the OOG diver and donor control the hose by holding it in their
+                right hand.
+               With the donor to the left, the hose will go behind the OOG diver’s neck and the
+                OOG diver will control the hose with his left hand.
+               For OOG scenarios that include following a guideline, the procedure above is
+                exactly the same, except that the divers must control both the long hose and the
+                guideline, with a locked “OK” signal around the hose and the guideline.
+
+
+
+
+ GUE Standards and Procedures                                                                           21
+ Version 3.0
+For open water ascents, the OOG diver and donor may choose to discontinue touch contact and (if
+conditions allow) position themselves so that all team members face each other. In all
+circumstances, the OOG diver must hold on to the donated hose (ideally with the right hand while
+having arms relaxed in front for a clear view of the bottom timer while ascending and still having
+the left hand free for controlling buoyancy).
+
+Terminating the Drill
+
+Once the drill has been terminated (or, in real OOG scenario, divers reach the next available gas
+source), both divers will face each other (or triangle up in a team of three) and establish a neutral
+base.
+
+OOG Diver Action
+
+     1. Locate, unclip and purge the evacuated primary with the right hand (or go through the gas
+        switch steps and prepare the stage/deco bottle regulator).
+     2. Remove the donated regulator with the left hand and replace with own.
+     3. Retain possession of the donated regulator until donor cleans up (re-stowing the hose and
+        routing the light cord).
+
+Donor Action
+
+     1. Stow the long hose.
+     2. Reroute the light cord around the long hose using a clockwise motion.
+     3. Obtain the primary regulator from the OOG diver.
+     4. Purge and replace.
+     5. Check that the light cord is routed over the long hose.
+
+
+
+Excessive Buoyancy due to Equipment Failure
+
+     1. Signal the team.
+     2. Detect the source of the auto-inflation.
+     3. If the power inflator is stuck on, dump gas from the corrugated hose while disconnecting
+        the low pressure (LP) inflator hose (single tank). In case of icing, switch to a teammate’s
+        long hose and close the valve.
+     4. If using doubles, shut the right valve down while dumping gas from the rear dump valve
+        and then switch to the backup regulator.
+     5. If your dry suit is self-inflating, disconnect the LP inflator hose while venting excess gas.
+
+
+
+
+22                                                                         GUE Standards and Procedures
+                                                                                             Version 3.0
+    6. If using a separate drysuit inflation bottle, shut down the bottle and/or disconnect the LP
+        inflator.
+    7. Reestablish position and control.
+    8. Fix the problem or call the dive.
+
+
+
+Line Entanglement
+
+    1. Stop and stabilize position.
+    2. Signal team members.
+    3. Make one attempt to free yourself.
+    4. Signal team members for assistance.
+    5. If guideline needs to be cut:
+               Position team on exit side of cut
+               Secure the line
+               Cut line and the free the diver
+    6. Repair line if possible.
+    7. If it is not possible to properly repair the line, notify other divers entering cave/wreck.
+
+
+
+Loss of Decompression Gas
+
+In the event that a decompression gas is unavailable due to equipment malfunction or an
+exhausted gas supply, a diver can share gas from their teammates. The procedure depends on the
+lost gas, as follows.
+
+Nitrox 50
+
+    1. Failed diver should use Nitrox 50 from teammates at alternating stop depths.
+    2. Teammates should donate their regulator. Do not hand off the decompression cylinder.
+    3. Breathe back gas at other stops.
+    4. Maintain scheduled decompression stop times.
+    5. At 6 m/20 ft, either:
+            a. Double stop time and alternate to teammate’s nitrox every 5 minutes,
+            b. Switch to oxygen and increase stop time by 1.5.
+
+
+
+
+ GUE Standards and Procedures                                                                        23
+ Version 3.0
+Oxygen
+
+     1. Share oxygen with teammates, 5 minutes each. Use Nitrox 50 when not breathing oxygen.
+     2. Extend 6 m/20 ft decompression stop by 1.5.
+
+
+
+Lost Line Drill (Cave)
+
+Normal Visibility
+
+     1. Stop and stabilize position near a reference point.
+     2. Search for team teammates’ light, silt, bubbles, etc.
+     3. Use a primary tie-off to securely attach the safety line to a fixed point.
+     4. Whenever possible, look for a secondary tie-off.
+     5. Conduct search in the area of the cave that looks to be the most promising.
+                   Use cave profile, configuration, flow pattern, compass heading, landmarks,
+                    sediment, etc. to regain orientation and locate the guideline.
+                   Search patterns include: shotgun, wall-to-wall, and circular.
+     6. After the guideline is found, secure the safety spool to it, and place a non-directional
+        marker on the exit side of the line.
+
+Reduced or Zero Visibility
+
+     1. Stop, stabilize position, and feel for a reference point
+     2. Use a primary tie-off to securely attach the safety line to a fixed point.
+     3. Whenever possible, look for a secondary tie-off.
+     4. The primary light can be stowed in a permanent position but kept on.
+     5. Use cave profile, configuration, flow pattern, landmarks, and sediment to regain some
+        orientation.
+                   Search patterns include: shotgun, wall-to-wall, and circular.
+                   Typically, the search should be conducted near the bottom of the cave with the
+                    safety spool in one hand and the other arm actively looking for the guideline.
+     6. After the guideline is found, secure the safety spool to it, feel both sides of the guideline for
+        clues, and place a non-directional marker on what you believe to be the exit side.
+
+If exiting the cave without all team members, leave a note (wetnotes open to note page and
+clipped to the line) stating that you have exited.
+
+
+
+
+24                                                                           GUE Standards and Procedures
+                                                                                               Version 3.0
+Loss of Visibility (Cave)
+
+   1. Stop, stabilize, and reference the guideline.
+   2. With one hand, secure the guideline with a locked OK.
+   3. All team members must have the same hand securing the line (all must use their right
+      hands or all must use their left hand on the line) while the other hand is holding a team
+      mate’s arm or leg in touch contact communication.
+   4. Maintain good control (buoyancy and trim) so as not to make a bad situation worse.
+   5. Teammates need to be aware of one another's positions on the guideline at all times.
+   6. Divers must create space on the guideline to facilitate touch contact and exit procedures.
+   7. Exit the cave in an expeditious manner.
+
+
+
+Loss of Visibility while Sharing Gas (Cave)
+
+   1. Stop, stabilize position, and reference guideline.
+   2. With one hand, secure the guideline with a locked OK.
+   3. If the guideline is on the right, the hose will feed straight from the regulator to the right
+      hand, through the locked OK on the line.
+   4. If the guideline is on the left, the procedure is reversed; however, the hose will go behind
+      the OOG diver’s neck and feed through the locked OK of the left hand.
+   5. In both cases, both divers are responsible for controlling the excess long hose.
+   6. The OOG diver will always secure the long hose.
+   7. Establish touch contact communication with the remainder of the team.
+   8. Maintain good control (buoyancy and trim) so as not to make a bad situation worse.
+   9. Exit the cave in an expeditious manner.
+
+
+
+Missing Diver
+
+Cave
+
+   1. Stop and stabilize position.
+   2. Locate the line and reference the exit.
+   3. Search for teammates’ light, silt, and bubbles
+   4. Determine team member is truly missing by first returning to the last place they were seen.
+
+
+
+
+ GUE Standards and Procedures                                                                         25
+ Version 3.0
+     5. Reserve twice the gas needed to exit from that point. The remaining gas is available for
+         searching. If significant penetration into the cave is required, a maximum of 1/3 of this
+         searching gas can be used.)
+     6. Conduct the search as follows:
+             a. Search on the line.
+             b. Search off line if given probable cause.
+             c. Place an arrow on the line.
+             d. Utilize a safety spool for searching.
+     7. If the teammate is not found, leave all spools and the primary reel in place. Also, attach a
+        backup light (turned on) and a note to the line and place several line arrows as you are
+        exiting.
+     8. After you have surfaced, notify other divers to assist with search.
+
+Open Water
+
+Team separation constitutes the end of the dive. It is considered a serious emergency and requires
+that all focus be directed to locating the missing teammate(s).
+
+        Limit the time spent searching on the bottom.
+        The ultimate limit for the search will be minimum gas (MG).
+        After concluding the search, proceed to obvious meeting points, e.g., the up-line.
+        If your teammate is missing, deploy an SMB (even if ascending on a primary up-line) to
+         communicate the problem to the boat crew and surface support. This will also allow them
+         to track separated team members.
+
+
+
+Omitted Decompression
+
+Omitting decompression (for example, due to an equipment failure) is potentially hazardous. In
+the event it becomes necessary, a number of steps should be taken.
+
+Affected Diver Response
+
+     1. Remain calm; notify surface support when feasible.
+     2. If DCI symptoms are not present, descend with team (within 5 min of surfacing).
+     3. Resume decompression one stop deeper.
+     4. Follow original profile.
+
+
+
+
+26                                                                        GUE Standards and Procedures
+                                                                                            Version 3.0
+   5. Extend the 6 m/20 ft stop for as long as gas/temperature/environment allow.
+   6. Monitor physical status and keep close to the team.
+
+Surface Support Response
+
+   1. Prepare for DCI and possible evacuation.
+   2. Deploy safety divers to assist with decompression.
+   3. Prepare for in-water extraction of unconscious or injured diver.
+
+
+Being prepared for DCI can radically alter the outcome! Surface oxygen is extremely useful as a
+first-aid measure. Very rapid onset of DCI (on ascent or immediately after) may indicate more
+sever conditions, such as:
+
+      Arterial gas embolism (AGE) and/or cerebral arterial gas embolism (CAGE)
+      Barotraumas and neurological DCI injuries.
+
+
+
+Primary Light Failure
+
+   1. Locate and remove a backup light from the stowed position.
+   2. Leave the light clipped to the chest D-ring.
+   3. Rotate the bezel to the on position.
+   4. Signal the team.
+   5. Properly stow the primary light once team has stopped and regrouped.
+   6. Position the light cord under the long hose and the waist strap.
+   7. Unclip the backup.
+   8. The team will regroup with the failed diver in the middle (for a three-person team) or in the
+      lead (for a two-person team).
+   9. At this point, the team will decide on and execute the appropriate course of action as
+      dictated by the environment.
+
+
+
+
+ GUE Standards and Procedures                                                                     27
+ Version 3.0
+Change Log
+
+Version 2.0.2 to 3.0, February 2017
+
+     1. The following new sections have been added:
+            a. Routine Diving Operations
+                    i. Decompression Computers
+                   ii. Flying After Diving
+                   iii. Gas Analysis
+                   iv. Stage Diving Procedures (Cave)
+            b. Emergency Procedures
+                    i. Excessive Buoyancy due to Equipment Failure
+                   ii. Loss of Decompression Gas
+                   iii. Omitted Decompression
+     2. Ascent Rate Protocol
+            a. Ascent rate changed for dives requiring staged/mandatory decompression.
+                    i. Variable ascent speed approach simplified. Divers are to ascend at 9 m/min
+                       or 30 ft/min to the first stop required by DecoPlanner.
+            b. Deep ascent profile is to be calculated using DecoPlanner, a more prudent and
+               proven way of calculating a decompression profile that allows for adjustment with
+               the use of gradient factors.
+     3. Cave Navigation and Marking Protocol
+            a. Added section on visual jumps, gaps, and traverses.
+     4. Gas Planning
+            a. Open Water section edited to include:
+                    i. The use of the CAT Formula, a simplified method of memorizing the gas
+                       planning steps.
+                   ii. That an ascent is to be calculated based on a linear ascent speed of 3 m/min
+                       or 10 ft/min. This rate should provide sufficient reserves for a team that is
+                       sharing gas and unable to maintain a normal ascent rate of 9 m/min or 30
+                       ft/min.
+            b. Cave section updated to be more detailed.
+
+
+
+
+28                                                                       GUE Standards and Procedures
+                                                                                           Version 3.0
+  5. Survey section simplified; more detailed procedures will be provided in course-specific
+       SOPs.
+  6. S-drill moved to emergency procedures section, as it is designed to prepare divers for a
+     true out-of-gas emergency.
+  7. Lost Line Drill (Cave) expanded to include both normal and zero visibility conditions, as
+     well as a more detailed description of procedures.
+  8. Missing Diver expanded to include both cave and open water environment.
+  9.   Unconscious Diver Rescue removed; more detailed procedures will be provided in course-
+       specific SOPs.
+
+
+
+
+GUE Standards and Procedures                                                                     29
+Version 3.0
+

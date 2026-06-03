@@ -1,0 +1,219 @@
+                        An Intriguing Examination of Risk
+                             and How to Mitigate It
+
+              The Human Factor in
+              Diving Incidents: The
+                Problem We Face
+                                                By Gareth Lock
+
+
+
+
+                                                                                                                            G. Lock
+
+             Gas choices, equipment configurations, and training programs are all developed
+               with safety in mind; the bigger, safe picture is at the heart of GUE training.
+
+Introduction
+
+
+
+O
+        ver the last fifteen years, there have been between    in May 2010 and Rebreather Forum 3 (DAN, NEDU, Swedish
+        ten and twenty-four fatalities and more than 350 DCI   Navy, Andrew Fock) in May 2012 appears to show that the
+        incidents each year in the UK. According to DAN        majority of fatalities have human factors as their root cause.
+America figures, these incidents number approximately one      This is unsurprising considering that aviation accident analysis
+hundred and one thousand respectively. Research presented at   figures show that seventy to eighty percent of aviation accidents
+the 2010 DAN Fatalities workshop (DAN, BSAC, and PADI)         are caused by human error.
+
+
+Quest										                                                                                        Vol. 13, No. 4        27
+                                                                                                                                       G. Lock
+
+
+  Mitigating the risks associated with wreck penetration requires careful consideration and training.
+
+
+Motivation                                                             The Research Goals
+
+In 2004, after spending ten years operating as a C-130 Navigator       The first phase of my Ph.D. is to conduct a literature search of all
+in the Royal Air Force and fulfilling instructional and supervisory/   applicable material. Embarking on this task, I have realized how
+management roles on an operational squadron, I undertook a             much information and knowledge is locked up in academia and
+Masters in Science degree in Aerospace Systems. The course             university libraries—information that is essential to developing
+contained a module that covered human factors (HF), looking            an informed culture. Guiding the study is the desire to learn
+at the design and interfaces that operators would have with            from environments with more established safety cultures (e.g.,
+aerospace systems. A couple of years later, I read a paper on the      aviation, medicine, and construction) and to determine what
+Human Factors Analysis and Classification System (HFACS),              worked and how to take it from a formal and legislated activity
+which coincided with the start of my formal GUE training.              into a discretionary sport (cognizant that more legislation is not
+I couldn’t help but notice the similarities between diving and         the answer).
+aviation safety when looking at safety management and incident
+reporting, noting that diving safety was nowhere near as well          The next phase is to understand risk and how it is perceived
+covered as aviation safety and there appeared to be many gaps.         in sport diving. Many divers do not know the risks they are
+This wasn’t really a surprise given that diving is a poorly funded     undertaking as most agencies do not put these figures in their
+(at the regulatory level) discretionary activity.                      training materials. As such, this ignorance (or denial) shapes their
+                                                                       behavior accordingly. In part, this could be due to the Kruger-
+In 2010, I presented a paper—which wasn’t that well received—          Dunning Effect, where people overestimate their own skills and
+to the British Diving Safety Group (BDSG) about ways to                knowledge, leading to negative consequences.
+improve incident reporting, and in 2011, I published another
+paper online, this time looking at applying the HFACS model,           Because the sport diving industry does not know how many or
+conceptually, to sport diving. This latter paper was well received     what types of dives are being conducted—i.e., OC, CCR, Nitrox,
+and forms the backbone of my “human factors” presentations             Trimix, depths, run-times, etc.—risk is difficult to quantify. This
+at conferences and clubs.                                              is because risk is a product of probability and consequence. In
+                                                                       2013, I aim to conduct a comprehensive survey of UK diving
+However, I realized that what I was promoting was somewhat             to inform this.
+controversial and why it was being met with much resistance.
+Knowing that this resistance could only be reduced by providing        The ultimate aim of my Ph.D. is to develop a taxonomy of
+the necessary evidence, I enrolled in a Ph.D. program at Cranfield     incident classification in a similar fashion to HFACS in aviation,
+University, looking at human factors in diving incidents.              to identify areas where organizations should focus efforts in
+
+
+28        Quest										                                                                                               Vol. 13, No. 4
+improving diver/diving safety. This will start by examining              GUE is very good at not shying away from foregrounding the
+Denoble et al. work in identifying triggers in fatalities and asking a   risks involved in diving during their training classes and materials.
+series of “why” questions to understand why the fatality occurred.       Among the risks discussed are not just equipment failure and
+                                                                         environmental issues, but also human factors; by adopting GUE
+Diving Is Always Risky...Right?                                          protocols, divers can reduce the risks that need to be tolerated.
+In traditional risk management theory, you can mitigate a risk           What Is a Safety Culture and Why Should
+by treating, tolerating, transferring, or terminating it. The same       I Care?
+applies to diving, but before we can do anything about it, the risk
+must first be identified; therein lies the challenge for a commercial    A Safety Culture is not one entity, but rather an aggregate of
+organization—how to ensure that prospective clients are not              component “Culture” parts. These are an Informed Culture,
+scared away while informing them of the real risks. Once the             a Reporting Culture, a Learning Culture, a Just Culture, and
+risks have been identified, they can be mitigated.                       finally, a Flexible Culture.
+
+Following traditional risk management theory, let’s apply the                Informed Culture: The collection and analysis of relevant
+four ways to mitigate risk in diving:                                         data and the active dissemination of safety information
+                                                                              to all required parties, both inside and outside the
+    Terminate is easy—don’t do the dive.                                    organization. Part of this involves active risk management,
+    Transfer is a bit more complex; while we do operate as a                ensuring that risks are identified and their mitigations
+      team, and there is some backup, ultimately you are the                  provided.
+      one going to suffer if something goes wrong.                           Reporting Culture: An environment in which divers have
+    Treat the risks by undertaking better training and                      the confidence and security to report where safety has been
+      developing practices, processes, and procedures to reduce               compromised without fear of blame or retribution. Divers
+      the risks.                                                              must know that confidentiality is at the forefront and,
+    Tolerate the risk is taking personal responsibility for the             importantly, know that something will come of the data
+      residual risks that you will be encountering. However, you              that is submitted. Without the latter, use of the system will
+      can’t do that effectively without knowing the likelihood                wither and ultimately die as there is no perceived need.
+      of the risks to occur and their consequences.
+
+
+
+
+                                                                                                                                          G. Lock
+
+
+                   Training can mitigate some of the risks associated with equipment failure.
+
+
+Quest										                                                                                                    Vol. 13, No. 4          29
+                                                                                                                                      G. Lock
+
+
+                              Two divers enjoy one of the many wrecks littering Narvik
+                                 harbor. Cold water diving poses additional risks.
+
+    Learning Culture: This is the ability to learn from the          is based on learning that has been accumulated after many hours
+     mistakes that have been made, make changes in a timely           of diving in extreme environments—the kind where failure is not
+     fashion, and improve safety and operational outputs.             an option and simple mistakes have the potential for very serious
+     In diving terms—having more fun, understanding the               or fatal consequences.
+     risks, and mitigating them. A learning culture is also
+     fundamental to ensure that divers are aware of what the          GUE classes teach divers to conduct their dives in cohesive teams,
+     safety management system is and how they can interact            providing positive critique to divers who do not maintain the
+     with it.                                                         standards that are expected of them. They operate with a common
+                                                                      goal, recognizing that safety is the “prime directive” and that they
+    Just Culture: Fundamentally, this boils down to an
+                                                                      should provide feedback at the end of each dive so that those
+     environment where honest mistakes and errors will not
+                                                                      well-defined standards and procedures are maintained. This is
+     be punished if the error was unintentional. On the other
+                                                                      not the same as doing things by rote, but rather understanding
+     side, those who take unjustifiable risks or act recklessly
+                                                                      why something didn’t work; and if these issues are consistently
+     or negligently will still be subject to disciplinary action.
+                                                                      repeated, it is providing feedback to the instructional and
+     It is not a blame-free culture.
+                                                                      developmental staff to allow improvements to be developed.
+    Flexible Culture: This is where an organization and its
+     people are capable of adapting effectively to changing           By having clear standards and a strong leadership, GUE has
+     demands. As an organization becomes larger and more              developed a global community view towards safe diving practices.
+     unwieldy, then its flexibility is removed.                       A safety culture is a mindset, and this is where GUE excels. Gas
+By having a Safety Culture included as part of its organizational     choices, equipment configurations, and training programs are all
+makeup, and having the leadership actively promote it, the            developed with safety in mind; the bigger, safe picture is at the
+culture will permeate down through the organization. Put simply,      heart of GUE training.
+safety culture is doing the safe things all the time, not just when
+                                                                      It has been said the highest standards you can expect from those
+someone is watching or assessing us.
+                                                                      below you in an organization, or influence outside of it, are the
+Why Is GUE Different from the Other                                   lowest you exhibit yourself. By ignoring those who adopt and
+Training Agencies?                                                    accept low standards, you condone those lower standards and
+                                                                      thereby promote the position that low standards are acceptable.
+GUE, as an organization, is not motivated by profit, but rather       GUE-trained divers are quite clear on what the diving standards
+by the desire to improve diver safety through rigorous training—      are and, just as important, that it is expected that they will be
+training that teaches divers how to think. Much of this training
+
+
+30       Quest										                                                                                               Vol. 13, No. 4
+compliant with them. This is not the Borg—this is about having         the diver was not picked up for a few more minutes. The diver
+strong leadership highlighting why these standards are there.          got onto the lift and noticed that something wasn’t right. Feeling
+                                                                       lightheaded they immediately spat out the loop and looked down
+Another advantage that GUE has is that it is small enough that         at the ppO2 monitor, which showed 0.07, well below the level
+individuals can have an effect on training and there is the ability    required for life support. The diver was very lucky.
+to personally know the senior training and standards staff to allow
+personal feedback to occur. As organizations grow, this is much        Understanding the context is essential if we are to figure out why
+harder to achieve at the same level. Something which GUE will          the incident occurred. While it could be said that this diver had
+need to focus on in the future as it grows.                            violated their training by turning the O2 cylinder off in the water,
+                                                                       it is only by understanding what they had been doing in the past
+Before I continue to congratulate GUE on its practices and             that we can understand why they “broke the rules” this time.
+procedures, there is an area of a safety management system
+in which GUE, at the grass roots level, is not as good at, and         We know we need to report incidents, but there is sometimes a
+that is the reporting of incidents. There have been a couple of        challenge in identifying what is/was an incident. As experience
+fatalities involving GUE divers where details have been issued         increases and risk perception reduces, we take certain activities
+very quickly and comprehensive analysis promulgated in a matter        for granted. Something a T2 or C2 diver doesn’t find an issue
+of days. However, when it comes to “normal” incidents, the             and considers part of the problems to be dealt with as part of
+sort of thing that happens most weekends or in training classes,       that environment/dive, a Fundamentals diver would consider an
+these aren’t normally publicized. Having spoken to one of the          issue and therefore could learn from the incident being reported.
+training directors, it appears that one of the reasons is that there
+isn’t a reporting system that GUE trusts for the information           Therefore, I would encourage divers to report any incident where
+to be submitted to. This issue should be resolved now that the         they believe safety has been compromised and from which others
+Diving Incident and Safety Management System (http://www.              could learn. Honesty in your own abilities and the mistakes you
+divingincidents.org) is launched. Perhaps there is also another        have made is essential if this is to occur; you cannot talk about
+reason. Because GUE divers believe that the training they receive      a mistake to others if you don’t think you made the mistake
+is consistently above that provided by other training agencies,        yourself. When a report is submitted, a diver should include as
+when mistakes are made (which invariably will happen), they            much background information as possible; without it, it becomes
+don’t want them publicized for fear of public criticism.               much harder to identify why an incident has occurred. Capturing
+                                                                       what happened is good, but the why is even more important.
+However, without a reporting culture, a fundamental part of
+the safety culture, the agency cannot improve its processes,           Learn from your mistakes—but better still, learn from someone
+procedures, or training, and the wider diving community cannot         else’s.
+learn from the ordinary mistakes that are made.
+
+So What? What Can I Do?
+
+As I have pointed out, we all make mistakes, irrespective of
+our experience and knowledge. By providing feedback into the
+system, we are able to improve the overall safety of diving—in
+effect, to learn from others’ mistakes and experiences. We should
+recognize that “near-miss” incidents provide more opportunity to
+identify failures than looking at just fatalities. One of the most
+obvious reasons for this is that the divers are able to explain why
+they made the decisions they did considering their experience,
+and importantly, the context in which the decisions were made.
+
+Consider the following example of a very experienced OC diver
+and instructor and fairly new KISS CCR diver. The diver used to
+forget to the turn off the CCR O2 valve after they had finished a
+dive. (The KISS is a constant mass flow mCCR and this meant
+the O2 cylinder was empty the following day). The diver then
+got into the (good) habit of turning the unit off when sitting on
+the bench of the boat as part of his de-kitting procedures. This
+gradually progressed to turning the unit off whilst standing on
+the diver lift. On the day in question, the diver was waiting for
+another diver to get onto the diver lift and they would be next.
+Thinking they would be back on the boat in a couple of minutes,
+they turned off the O2. Unfortunately the boat went around and
+
+
+
+
+Quest										                                                                                                  Vol. 13, No. 4         31
+

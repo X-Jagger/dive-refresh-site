@@ -1,0 +1,193 @@
+Equipment & Training
+         The Valve Drill: Why We
+         Do It the Way We Do It
+                                                By Mark Devoldere
+
+
+
+
+                                                                                                                                   C. Kuyvenhoven
+
+
+                                         What is the valve drill really all about?
+
+
+Why I Wrote This A rticle
+
+
+A
+         s a GUE instructor, people regularly ask me why it is     jumping overboard with closed valves) that clarify things for
+         that GUE divers are so anxious about manipulating their   most people.
+         valves. When these questions come from recreational
+                                                                   From more experienced divers or divers with a technical
+divers, most of the time the discussion is about the need to
+                                                                   background, I get questions about why we switch from our
+operate one’s valves. Questions like “Why does a diver have to
+                                                                   backup regulator to our primary regulator immediately after
+be able to reach and manipulate his or her valves?” are commonly
+                                                                   having reopened the right valve, instead of continuing to breathe
+answered with “Because he or she wants to be in control of his
+                                                                   it until closing the left valve. Because I enjoy listening to people
+or her gas supply in case it should be compromised for whatever
+                                                                   more than I enjoy talking (especially in open public discussions
+reason,” at which point I give some examples (like accidently
+
+
+4        Quest										
+                                                                                                                                         J. Jablonski
+
+
+                           The main goal of a drill is to create automatism in performing
+                                    a sequence, rather than individual actions.
+
+
+or on internet forums), I find that often several different answers    drill. A drill isn’t just an exercise we do to lengthen the duration
+are given to this question. Some say the procedure used to be          of a course. It isn’t something that is meant to look cool on the
+like that, but was changed as a result of divers closing both          videos we put on YouTube, nor is it something to keep us busy
+valves. Others say it was to save time. There are even some that       during boring dives. To me a drill is a series of repetitions of a
+say it is to make things more difficult, and still others that say     specific sequence of actions designed to create an automatic behavior.
+it actually doesn’t matter, since “it is just a drill anyway.” Blame
+it on my critical mind, but if I were to ask the question, none of     That’s right, we want to create an automatic behavior so that
+these answers would satisfy my need for a compelling reason.           when it is called for, we can perform it without having to think
+                                                                       too much about it; we want to perform it without having to think
+Here you’ll find my perspective on the concept of a drill in           about the right order of the individual steps. While automatically
+general and on the valve drill in particular. My viewpoint is the      performing a sequence, we can concurrently focus on other
+result of two things. First, there is my nearly insatiable desire      aspects of our dive, such as buoyancy, trim, team awareness,
+to find compelling reasoning in everything I learn and teach.          and communication.
+Second, there is my own experience with a variety of safety
+drills I’ve had to deal with in military training. In the military,    In the end, it all comes down to reducing task load, an expression
+as well as in other sectors (police, emergency services, industry,     most of us will have heard several times during any GUE course.
+the maritime sector, etc.), solid, drill-based training can mean       Task load is greatly reduced when our body learns to perform
+the difference between life and death.                                 a sequence, rather than individual actions. In addition, while
+                                                                       training a drill, we also create what is known as muscle memory:
+Before I begin, I would like to underscore that what follows is        our brain is taught to synchronize all the different movements
+my perspective on the valve drill and does not necessarily reflect     our muscles have to make in order for our body to do what it is
+GUE’s position on the matter. However, if you like the approach        supposed to do in automatic fashion.
+I present here, feel free to use it in any future discussion you
+have or in any future course you teach.                                With respect to the valve drill, what automatic behavior are we
+                                                                       trying to cultivate? Is it just a matter of manipulating the valves
+                                                                       in a specific order? Or is there more to it? It is obvious that there
+The Value of a Drill
+                                                                       is no realistic scenario in which a diver would close and reopen
+When I explain the valve drill to students (or to anyone else who’s    all of his or her valves. So, keeping in mind the definition of a
+interested), I always start by explaining the true meaning of a        drill, why do we do it this way?
+
+										                                                                                                        Vol. 15, No. 3                   5
+A Closer Look at the Valve Drill                                          I like to suggest that the flow check at the end of the sequence
+                                                                          should also be considered a drill. From a physical point of view,
+For me, it is best to consider the valve drill not as one drill, but      it trains us to reach back, locate, and manipulate the valves.
+as three distinct drills: 1) the valve drill of the right valve, 2) the   The flow check conditions us to the valuable (and necessary)
+valve drill of the isolator, and 3) the valve drill of the left valve.    habit of checking the correct (not necessarily open) position
+Furthermore, each of these “three” drills consists of two steps:          of our valves whenever they might have been compromised—
+1) closing the valve while signaling the team and 2) a specific           which could result from contact with a ceiling or because the
+manipulation of the regulators (with the exception of the isolator        valves have been manipulated by a team member. Divers are
+valve). That’s correct, the valve drill is not simply about turning       ultimately responsible for their gas supply; therefore, they are
+valves; it is also about knowing what closing and reopening a             also responsible for the correct position of their valves.
+specific valve does to the gas flow in your regulator system, and
+how to react adequately to it. And since we want to consider
+                                                                          Procedural Change from the Past
+and train each partial valve drill independently, we clean up and
+return to our start point after each drill.                               Recognizing that GUE’s valve drill isn’t just about turning
+                                                                          valves, but also about manipulating regulators, entirely supports
+Building on the above, we can now appreciate the three phases
+                                                                          the procedural change GUE implemented several years ago1. The
+of the drill. In the table below, the automatic behaviors we want
+                                                                          previous procedure prescribed that at the end of the right valve
+to instill are marked in green. Intermediate behaviors or steps
+                                                                          drill the back-up regulator was kept in the diver’s mouth until
+required to return us to our start point are marked in grey (these
+                                                                          the diver closed the left valve during the left valve drill. The
+must be executed before moving on to the next partial drill).
+                                                                          diver would then have to breathe down the back-up regulator,
+Add to this some communication and safety considerations in
+                                                                          and finally switch to the primary. Keeping in mind that the goal
+order to initiate and finish the exercise in a safe and efficient way
+                                                                          of a drill is to create an automatic action, this old version of the
+and there it is our entire valve drill.
+                                                                          left valve drill just didn’t make any sense.
+                                                                          Indeed, there is just no realistic scenario in which a diver would
+                                                                          have to close his or her left valve and then switch to his or her
+          Action                            Purpose                       primary regulator. If ever the left valve has to be closed, the
+    Communicate with the               Initiate the exercise/safety       diver is either:
+    team
+    Purge the backup regulator         Initiate the exercise/safety       A. Breathing from the primary regulator, in which case he or
+                                                                            she would merely have to purge the back-up to release the
+    Close the right valve while        Step 1 of the right valve
+                                                                            pressure before addressing the issue, or
+    signaling the team                 drill: manipulation of the
+                                       valve                              B. Breathing from the back-up regulator. This would mean that
+    Breath down the primary            Step 2 of the right valve            his or her primary is not serviceable, so he or she could not
+    regulator, switch to the           drill: manipulation of the           switch to it2. In this case, the diver would have to perform
+    backup, and clip off the           regulators                           an S-drill to receive gas from his or her buddy before closing
+    primary regulator                                                       the left valve.
+    Reopen the right valve,            Clean up and return to start
+    unclip, purge, and switch to       point                              A fter Fundamental Valve Drill Training
+    the primary regulator
+    Close the isolator while           Step 1 of the isolator valve       Once a diver is familiar with the elementary building blocks
+    signaling the team                 drill: manipulation of the         of gas supply problem-solving, he or she is ready to progress to
+                                       valve (no step 2)                  more advanced diver training (at least as far as this aspect of
+    Reopen the isolator                Clean up and return to start       diver training is concerned). Typically during a Cave 1 or Tech
+                                       point                              1 class, divers will learn how to deal with specific gas supply
+    Close the left valve while         Step 1 of the left valve drill:    compromising scenarios. During more advanced training, divers
+    signaling the team                 manipulation of the valve          learn how to react to specific regulator and/or manifold failures,
+                                                                          by applying one or more of the previously learned building blocks
+    Purge the backup regulator         Step 2 of the left valve
+                                       drill: manipulation of the         (valve drills) in a logical order. It will be during such training that
+                                       regulators                         divers will fully appreciate the “three valve drill” approach. Once
+    Reopen the left valve and          Clean up and return to start        1
+                                                                             2006 - 2007, according to Richard Lundgren, member of the GUE Board
+    purge the backup regulator         point                               of Advisors
+                                                                           2
+                                                                             In a three person team, a diver experiencing a left post failure while
+    Perform a flow check               Finish the exercise/safety          donating gas could switch back to his or her primary regulator, making the
+    Communicate with the               Finish the exercise/safety          third person the new donor for the out-of-gas diver. However, this situation,
+    team                                                                   which requires at least three independent failures in a row (supposing all
+                                                                           divers are using doubles), is so rare that it does not make any sense to use it
+                                                                           as an argument to explain a drill sequence.
+
+
+
+
+6         Quest										
+S. Hogeborn
+
+
+                            During advanced diver education, students will learn how to deal
+                                   with specific gas supply compromising scenarios.
+
+
+the sequence, as taught during Fundamentals, is stripped down          required for executing a possibly lifesaving procedure. To get the
+to its very essence, it will become clear how the three individual     job done, one must first know the tools they are working with.
+drills are combined to resolve any possible valve failure.
+                                                                       I wish you all a lot of valve-turning fun.
+As such, it could be said that the valve drill, as trained during
+Fundamentals, is to the SOP3 for managing valve failures as
+the Basic 5 (first three steps) is to the S-drill; it is the toolbox
+
+
+ 3
+     Standard Operating Procedure
+
+
+
+
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+                                                                           
+              
+
+
+
+
+										                                                                                                     Vol. 15, No. 3          7
+

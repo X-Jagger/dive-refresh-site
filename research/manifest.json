@@ -1,0 +1,108 @@
+[
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Additional Resources/Beginning With the End in Mind.pdf",
+    "extract": "/Users/leijie/Documents/Codex/2026-06-03/ow-aow-fun-dive-1-refresh/research/Additional_Resources_Beginning_With_the_End_in_Mind.txt",
+    "pages": 9,
+    "chars": 11875
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Additional Resources/GUE-Dive Computer Use-EN.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Additional Resources/GUE-Pre-Dive Sequence-EN.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Additional Resources/GUE-SOPs_v3.0.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Additional Resources/GUE_Logbook_2017.pdf",
+    "extract": "/Users/leijie/Documents/Codex/2026-06-03/ow-aow-fun-dive-1-refresh/research/Additional_Resources_GUE_Logbook_2017.txt",
+    "pages": 16,
+    "chars": 12575
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Additional Resources/Underwater-Communication-EN.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Additional Resources/Valve_Manual_Ver2.2.pdf",
+    "extract": "/Users/leijie/Documents/Codex/2026-06-03/ow-aow-fun-dive-1-refresh/research/Additional_Resources_Valve_Manual_Ver2.2.txt",
+    "pages": 22,
+    "chars": 39559
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Fundamentals-Part1-Workbook-Chinese.pdf",
+    "extract": "/Users/leijie/Documents/Codex/2026-06-03/ow-aow-fun-dive-1-refresh/research/Fundamentals-Part1-Workbook-Chinese.txt",
+    "pages": 26,
+    "chars": 17021
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Breath and the Diver, S. Tittle.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Defining GUE's Core Values-SM, CCR, and DIR, J. Jablonski.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Developing a Personal Fitness Program, N. Pollock.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Doing it Wrong-Smoking and Diving, H. Hamza.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Fine-Tuning Buoyancy Control, G. Burrows.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/GUE's Core Values-A Question of Identity, P. Alexakos.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Incorporating Training into the Life of a Busy Diver, E. Kalayci.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Lift Bags and SMBs, D. Marshall.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Reach Back and Breathe, M. Montilla.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Swim-Bike-Run-Fun Ways to Prepare for Fundies, E. Kalayci.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/The Art of Valve Drills, G. Burrows.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/The Human Factor in Diving Incidents, G. Lock.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/The Valve Drill - Why We Do It the Way We Do It, M. Devoldere.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Training to Dive or Diving to Train, B. Opperud.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/FundamentalsPart1-Chinese/Supplemental Reading/Training-Not an Option, R. Thomas.pdf",
+    "error": "cryptography>=3.1 is required for AES algorithm"
+  },
+  {
+    "source": "/Users/leijie/Documents/潜水/[English] Scuba Refresher Course Skills Video   Improve Confidence & Get Back Into Diving Safely [Do.srt",
+    "extract": "/Users/leijie/Documents/Codex/2026-06-03/ow-aow-fun-dive-1-refresh/research/youtube_scuba_refresher_subtitles_clean.txt",
+    "kind": "srt",
+    "chars": 24612
+  }
+]

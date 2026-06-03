@@ -1,0 +1,212 @@
+ASSISTED,
+   NOT GUIDED
+
+
+
+                DIVE COMPUTER USE
+                A guideline for the recreational GUE diver
+                                                                                B
+                                                                                       reathing while underwater results in the accumulation of
+                         GUE has a long history of skepticism towards dive
+                                                                                       gas in a diver’s tissues. The volume of gas absorbed, and
+                         computers. In most cases, these reservations have             the way it is removed, is a complex interaction involving
+                         been justly deserved, as computers have                a range of variables—most of which are related to the time
+                         historically produced ill-conceived and sometimes      spent at a given depth. Decompression modelling attempts to
+                         even potentially dangerous profiles. Reliability was   capture these variables by using algorithms that anticipate gas
+EVOLUTION
+                         also a common problem over many years. More            accumulation at a given gas mixture, a specific depth, and
+Over the years, as the                                                          over a particular time period. Decompression tables provide a
+                         recently, the technical capacity and reliability of    simplified way to track this process, but for the sake of sim-
+technology has
+                         dive computers has greatly improved, and today         plicity, they round time and depth into categories that some-
+improved, GUE has
+                         decompression computers can provide a very close       times create fairly conservative decompression estimates.
+adopted a more
+                         approximation of current GUE diving protocols.         While divers have been using these tables successfully for
+positive approach                                                               years, they have done so by accepting limitations that, for the
+toward the use of dive                                                          most part, made dives shorter or required longer decom-
+computers.                                                                      pression profiles. These limitations were created
+                                                                                primarily by a lack of precision in assessing time
+                                                                                at various depths throughout a profile. For
+                                                                                example, while a diver might spend only a
+                                                                                few minutes at the deepest depth, the
+                                                                                tables may show the entire profile at this
+                                                                                depth.
+
+                                                                                Compelling Features
+                                                                                When dive computers were introduced and
+                                                                                their early reliability problems solved, they
+                                                                                slowly became a preferred strategy for most
+                                                                                divers in the management of their decom-
+                                                                                pression status. They provided divers with a
+                                                                                device that could closely monitor depth-time
+                                                                                profile and calculate in real time, allowing more precise
+                                                                                                                                                   CUSTOMIZATION
+                                                                                calculations for a given profile. Manufacturers responded with
+                                                                                a variety of products. Most of the earliest models had no          Computers that allow
+                                                                                customization options, and they produced quite conservative,       tweaking of the
+                                                                                and sometimes oddly shaped, decompression profiles. Despite        decompression
+                                                                                these issues, most divers migrated to using computers. The
+                                                                                convenience, ease of use, and real-time monitoring were
+                                                                                                                                                   algorithm make these
+                                                                                compelling features.                                               instruments useful for
+                                                                                                                                                   GUE divers.
+                                                                                Blind Followers
+                                                                                With these advantages came a new problem. Divers became
+                                                                                complacent, trusting the output from computers and paying
+                                                                                little attention to their own awareness of or knowledge about
+                                                                                their current decompression status. Divers gradually began to
+                                                                                disregard decompression planning. At the same time, tradi-
+                                                                                tional training agencies and instructors de-emphasized the
+                                                                                importance of using diving tables and even the need to
+2                                                                                                                                                                           3
+                      understand the nuances of decompression science. In other                                   PLAN YOUR DIVE
+                      words, divers started to blindly follow a number on a screen
+                      without having a fundamental knowledge of what that num-                                    Diving with a computer
+                      ber represented, its origin, or how it was affected during a                                does not exempt the
+                      dive. Furthermore, the abundance of different models follow-                                dive team from making
+                      ing different decompression algorithms, or a different version                              a solid plan before the
+                      of the same algorithm, produced different results for the same
+                      depth and dive profile, complicating team operations and                                    dive.
+                      leading to confusion.
+
+                      Desktop Software
+                   The lack of flexibility, concerns over reliability, inefficient
+                   decompression profiles, and differing profiles in the team,
+                   among other factors, were major influences in GUE’s reluc-
+
+
+
+
+    "
+                                     tance to embrace dive computers as their
+                                     primary means of decompression planning
+        Fortunately, dive            and monitoring. GUE instead chose to use
+        computer                     desktop decompression software as the
+                                     primary method of decompression planning.
+        technology is                This allowed the creation of standardized and
+        evolving and now             tailored deco strategies to fine-tune the dive
+                                     plan based on a wide range of variables,
+        allows for dive              including type of dive, experience of the
+        computers that offer team, profile of the environment, and various
+                                     other contingencies.
+        similar advantages
+        to those sought                Evolving Technology
+                                       Fortunately, dive computer technology is
+        during GUE-diving              evolving and now allows for dive computers
+        activities.                    that offer similar advantages to those sought
+                                       during GUE-diving activities. These comput-
+                                       ers allow the user a reasonable level of
+                      customization, providing the chance to model GUE’s tailored
+                      ascent in a way that brings success similar to GUE's DecoPlan-
+                      ner desktop decompression software.
+
+                      Supporting Role
+
+
+
+
+                                                                                        "
+                      Despite technological advances in dive computer technology,
+                      one critically important risk factor remains. Divers should not
+                      be overly reliant on dive computers, but instead, use them to         Blindly following a
+                      augment knowledge and planning in a supporting role. Blindly          computer is
+                      following a computer is irresponsible and can be dangerous.
+                                                                                            irresponsible and
+                                                                                            can be dangerous.
+
+4                                                                                                                                       5
+TEAM SETTINGS          GUE divers should consider the following recommendations             pression obligations. Consistent implementation of GUE’s
+                        when using a dive computer:                                          standard ascent profile supports better ascent control,
+Everybody in the dive                                                                        allows time for ascent-related tasks (i.e., SMB,
+team should use the     1. Choose a computer that uses the same algorithm as the
+                            GUE DecoPlanner (Bühlmann ZHL16), which has a con-               primary light stowage, team communica-
+
+
+
+
+                                                                                                                                            "
+same settings. Do not       servatism factor (preferably gradient factors) that can be       tion), and is consistent with ascent practices
+allow the computer to       customized. This way, your dive profile (MDLs, decom-            followed in more advanced types of diving.
+be the reason behind        pression obligations, variable ascent rates) will closely        Your dive computer monitors your ascent                Dive computers
+team separation."           match the planning you can do with desktop software.             rate and takes into consideration any                  can’t predict the
+                            This enhances flexibility and supports dive planning as          additional time spent during the ascent.
+                            well as team synergy.                                                                                                  future. Always
+                                                                                         5. Do not allow your level of situational aware-
+                        2. Choose a computer that offers a resettable average-               ness to drop. Dive computers can’t predict            remain aware of
+                            depth-indicator function as well as a timer. This way you        the future. Always remain aware of the                the environment
+                            will be able to accurately monitor your average depth            environment and the team. Diving while blindly
+                            and easily compare the computer suggestion with expec-           following a dive computer often results in a false    and the team.
+                            tations derived during dive planning. It will also help to       feeling of safety. Many dive computers offer a TTS
+                            maintain synergy with GUE standard protocols, such as            (Time to Surface) calculation, but you should keep in
+                            pragmatic MDL.                                                   mind that this calculation does not account for
+                                                                                             factors such as cold, current, and equipment mal-
+                        3. Adequately plan your dive and agree on the plan with              functions that can affect the dive plan and your decom-
+                            your team. If you agree to follow your dive computer
+                                                                                             pression profile.
+                            recommendation, be sure it mirrors your pre-planned
+                            expectations and that the team agrees with this strategy.    6. Remember that computers can perform calculations
+                                                                                             quickly, and they can offer accurate suggestions, but they
+                        4. Always follow the GUE ascent profile, even if you are             can’t make decisions. The diver needs to make the deci-
+                            using your diving computer to calculate MDL or decom-
+6                                                                                            sion, and for this, you need enough knowledge on both                      7
+                          the subject matter and necessary inputs. Your computer
+                          can provide some of the inputs and suggestions, but you
+
+
+
+
+                                                                                                                                         "
+                          are ultimately responsible for making decisions. Make
+                          sure you understand the concepts of gas absorption and
+                          elimination as well as basic decompression theory.
+                                                                                                                                                  All divers should
+                          Discuss any questions you have with a GUE instructor.                                                                   strive to under-
+                      7. If your computer comes with a deep stop function, it is                                                                  stand and learn
+                          recommended you turn it off when following a GUE
+                          ascent profile. A GUE ascent profile already incorporates
+                                                                                                                                                  about the latest
+                          strategies for addressing bubble formation and reduction                                                                decompression
+                          of asymptomatic bubbles.                                                                                                theory and
+
+
+
+
+"
+                      8. Read the manual and understand the functions of your                                                                     always use sound
+    Computers             dive computer before using it. Take the time to set the
+                                                                                                                                                  diving practices
+                          computer properly: conservatism levels, gas used (nitrox
+    used by               vs trimix, decompression gases), last stop depths, when                                                                 and protocols.
+    properly              the computer will start to count time of a surface interval,
+                          and when it will start to count dive time, salt or freshwa-
+    educated,             ter. Learn your computer progressively. Do not rely on it
+    thinking divers       during the first dive or on a difficult, challenging dive.
+                          Become familiar with how it behaves–what and how
+    can simplify          information is indicated. It will require your awareness
+    decompression         and concentration at first, just to understand the infor-
+                          mation the device is displaying.
+    tracking and
+    provide           9. When multi-day diving, like on a liveaboard, use GUE
+                          DecoPlanner as your primary planning tool, while verify-
+    another layer         ing with your dive computer. In this way you can enjoy
+    of safety             the best of both worlds, benefiting from the value and
+                          flexibility of standard protocols, as well as the precise
+    for the team.         data collection capacity of a dive computer. Pragmatic or
+                          other planning tools have limitations, especially over
+                          extended diving events, and your computer can mitigate
+                          these risks.
+                      10. Ensure all team members use the same settings on their
+                          computers. Do not allow a dive-computer-generated
+                          profile to separate the team.
+
+                      Another layer of safety
+                      Dive computers used by properly educated, thinking divers
+                      can simplify decompression tracking and provide another layer
+                      of safety for the team. All divers should strive to understand     Text                 Dimitris Fifis
+                      and learn about the latest decompression theory and always         Editing and Design   Jesper Kjøller
+                      use sound diving practices and protocols.
+                                                                                         Photos               Julian Muehlenhaus, Jesper Kjøller & Kirill Egorov
+                                                                                         Copyright            Global Underwater Explorers · www.gue.com
+8                                                                                                                                                                     9
+

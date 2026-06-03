@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Scuba finning techniques</title>
+  <desc id="desc">Simplified diagrams of flutter kick, frog kick, modified flutter, helicopter turn and back kick.</desc>
+  <style>
+    .bg{fill:#f4fbfa}.card{fill:#fff;stroke:#d8e8e6;stroke-width:2}.body{fill:none;stroke:#173331;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}.fin{fill:#116b70;stroke:#173331;stroke-width:4}.arrow{fill:none;stroke:#d96c52;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}.text{font:800 25px system-ui,sans-serif;fill:#173331}.sub{font:600 18px system-ui,sans-serif;fill:#5b6865}
+  </style>
+  <rect class="bg" width="1200" height="560"/>
+  <text x="42" y="54" class="text">水下踢法 / Finning techniques</text>
+  <text x="42" y="84" class="sub">保持水平 trim；主要靠腿和脚踝，不用手划水；靠近沙地/珊瑚时减少向下水流。</text>
+  <g transform="translate(40 125)">
+    <rect class="card" width="210" height="360" rx="10"/>
+    <path class="body" d="M48 128h78l42 38M126 128l42-38"/>
+    <ellipse class="fin" cx="181" cy="178" rx="28" ry="12" transform="rotate(24 181 178)"/>
+    <ellipse class="fin" cx="181" cy="77" rx="28" ry="12" transform="rotate(-24 181 77)"/>
+    <path class="arrow" d="M174 64v-38M174 192v38"/>
+    <text x="20" y="270" class="text">Flutter</text>
+    <text x="20" y="300" class="sub">自由泳式上下踢</text>
+    <text x="20" y="328" class="sub">有流/水面游较常用</text>
+  </g>
+  <g transform="translate(280 125)">
+    <rect class="card" width="210" height="360" rx="10"/>
+    <path class="body" d="M48 128h78l38 42M126 128l38-42"/>
+    <ellipse class="fin" cx="180" cy="180" rx="30" ry="12" transform="rotate(45 180 180)"/>
+    <ellipse class="fin" cx="180" cy="75" rx="30" ry="12" transform="rotate(-45 180 75)"/>
+    <path class="arrow" d="M165 83C135 105 135 151 166 173"/>
+    <path class="arrow" d="M190 83C218 106 218 150 190 173"/>
+    <text x="20" y="270" class="text">Frog</text>
+    <text x="20" y="300" class="sub">蛙踢，省气省力</text>
+    <text x="20" y="328" class="sub">少扬沙，适合巡游</text>
+  </g>
+  <g transform="translate(520 125)">
+    <rect class="card" width="210" height="360" rx="10"/>
+    <path class="body" d="M48 128h90l34 24M138 128l34-24"/>
+    <ellipse class="fin" cx="186" cy="158" rx="24" ry="10" transform="rotate(16 186 158)"/>
+    <ellipse class="fin" cx="186" cy="98" rx="24" ry="10" transform="rotate(-16 186 98)"/>
+    <path class="arrow" d="M183 91c-8 16-8 56 0 72"/>
+    <text x="20" y="270" class="text">Modified</text>
+    <text x="20" y="300" class="sub">小幅改良踢法</text>
+    <text x="20" y="328" class="sub">贴近底部/窄处使用</text>
+  </g>
+  <g transform="translate(760 125)">
+    <rect class="card" width="210" height="360" rx="10"/>
+    <path class="body" d="M56 128h84l35 30M140 128l35-30"/>
+    <ellipse class="fin" cx="186" cy="165" rx="24" ry="10" transform="rotate(35 186 165)"/>
+    <ellipse class="fin" cx="186" cy="90" rx="24" ry="10" transform="rotate(-35 186 90)"/>
+    <path class="arrow" d="M102 78C50 105 50 150 102 178"/>
+    <path class="arrow" d="M108 178C160 151 160 106 108 78"/>
+    <text x="20" y="270" class="text">Helicopter</text>
+    <text x="20" y="300" class="sub">原地转向</text>
+    <text x="20" y="328" class="sub">拍照/避障很有用</text>
+  </g>
+  <g transform="translate(1000 125)">
+    <rect class="card" width="160" height="360" rx="10"/>
+    <path class="body" d="M30 128h70l34 30M100 128l34-30"/>
+    <ellipse class="fin" cx="143" cy="164" rx="20" ry="9" transform="rotate(35 143 164)"/>
+    <ellipse class="fin" cx="143" cy="92" rx="20" ry="9" transform="rotate(-35 143 92)"/>
+    <path class="arrow" d="M130 126H62M62 126l22-17M62 126l22 17"/>
+    <text x="16" y="270" class="text">Back</text>
+    <text x="16" y="300" class="sub">后退踢</text>
+    <text x="16" y="328" class="sub">先浅水练</text>
+  </g>
+</svg>

@@ -1,0 +1,161 @@
+Equipment & Training
+                  Lift Bags and
+              Surface Marker Buoys
+                                                     By Dean Marshall
+
+
+
+
+D. Rhea
+
+Diver removing SMB
+
+
+
+I
+   would like to start this discussion by leveling the playing          they serve a secondary function as a surface marker. In order to
+   ﬁeld, so to speak, and explaining what these terms mean.             lift an object from a body of water, we need to obtain positive
+   Once I do so, I will then discuss techniques for their use           buoyancy to offset the negative buoyancy of the object. In the
+and deployment.                                                         commercial world, divers use lift bags to raise everything from
+                                                                        anchors to ships. Generally, it’s best to use several smaller lift bags
+Although the terms “lift bag” and “SMB” are, at times, used             to gain as much control as possible over the object. That way, the
+interchangeably, such a use is not entirely accurate; this inaccuracy   object can be raised to the surface without danger to the diver.
+is similar to the one that collapses the distinction between a          It also maximizes the chance of a successful lift the ﬁrst time
+“decompression” and “stage” bottle. We will begin by looking at         because the diver can keep complete control throughout the lift,
+the two different uses these devices can have, because both can         rather than simply ﬁlling a bag as much as possible and hoping
+lift and mark. But as with most things in life, if we use the correct   it will arrive on the surface in one piece and stay there. We will
+tool, the job becomes a great deal easier.                              return to this point in great detail later. Most lift bags come in
+The primary function of lift bags is to lift objects from the water;    a pillow design with a somewhat smaller opening at the ﬁlling
+
+4         Quest                                                                                                Winter 2005
+                                                             D. Rhea
+
+Diver attaching SMB to spool-line
+
+end. However, some —such as those used for prop removal and
+
+                                                                                                                                          D. Rhea
+other specialty uses—come in a vast range of shapes and sizes,
+with models available in the 10,000s-of-pounds range.
+
+Attaching the object correctly is of the utmost importance.            In proper trim, a diver prepares to deploy his SMB
+With this in mind, it is always a good idea to think of the object
+going toward the surface without the diver. By this, I mean it is      When selecting an SMB, one important consideration is how
+important to make sure that all items of the diver’s gear are out      to ﬁll the device. There are three basic kinds of devices: closed,
+of the way, and that the object has no appendages that could           semi-closed and open. As the name implies, a closed system acts
+catch the unwary diver and drag him or her to the surface.             in much the same manner as a buoyancy compensator. It has a ﬁll
+                                                                       nipple that cannot lock onto the inﬂator hose, and an overpressure
+In contrast to a lift bag, the sole purpose of an SMB is to            relief valve. Once the diver ﬁlls the device, Boyle’s law takes over,
+supply team members on the surface with a marker by which              and as the marker rises to the surface, the excess air is vented
+to ﬁx the relative position of a submerged diver. Once the diver       from the OPV. This kind of SMB has many advantages, given
+commits to the water, there are a number of possible problems          that it all but eliminates the possibility that air will spill out of
+to consider, many of which we have little to no control over:          the device once it hits the surface. Even so, there are some issues
+possible mechanical trouble with the dive vessel, deteriorating        that confront the wetsuit diver. Though smaller, closed SMBs,
+weather, changing conditions with regard to current sheer, etc.        such as the 3.3-ft, can be orally inﬂated, the 4.5-ft and larger
+Such variables make using an SMB a critical skill that a diver         SMBs require an LP inﬂator hose to be effectively ﬁlled. This
+should develop over time with practice.                                means that the wetsuit diver is forced into carrying an extra LP
+                                                                       hose, or worse, disconnecting his/her BC inﬂator—never a good
+As we said, the sole purpose of an SMB is to notify our surface        idea. Semi-closed bags are gaining in popularity because they are
+support where we are. Once the SMB is on the surface, it’s             ﬁlled with a second stage (much like a traditional open bag), but
+doing its job as long as it stays there. As a result, we must make     employ a bafﬂe that allows gas to enter but not escape by sealing
+certain that we are using an SMB that is as noticeable as possible     once the gas enters. It also uses an overpressure relief valve that
+to the surface vessel. This does not always mean that we have          allows excess gas to escape during ascent. The most traditional in
+to select the largest SMB we can carry—in fact, a number of            design is the open circuit bag. As the name suggests, these have a
+factors come into play when deciding which SMB to take. Some           pillow shape and an open end for ﬁlling; excess gas leaves the bag
+of the deciding factors are the kind of dive site we are on, our       through the ﬁlling end during ascent. The biggest disadvantage of
+distance from shore, the color of the SMB, and the exposure            using an open-circuit bag is that when tension is not kept as the
+protection we are using.                                               SMB approaches the surface, the diver is faced with the possibility
+During GUE Fundamentals training, divers are shown the nuts            that the gas in the SMB will spill out, leaving it ineffective at best,
+and bolts of how to send an SMB to the surface. Safe deployment        or that it will sink back down to the diver at worst.
+of an SMB, however, takes a lot of practice. Before one can            Once you choose a ﬁlling method, it’s time to decide on the size
+do this while multi-tasking toward the surface on time, divers         and shape of your SMB. There are two basic shapes to choose
+should not incorporate sending an SMB to the surface as part           from: a sausage or a bag. In choosing, several parameters must
+of the dive plan.                                                      be kept in mind, the ﬁrst being inﬂation size. Trying to get a full
+                                                                       100-pound bag to the surface will require a large amount of gas
+Quest                                                                                                      Winter 2005              5
+                                                                                                                                                  D. Rhea
+                                                                 D. Marshall   Diver prepares to deploy his SMB, while a team member is
+                                                                               prepared to render assistance
+SMBs come in various shapes and sizes
+
+to be added at depth, which might cause major problems with                    wreck; boats use it to know where divers are at the beginning of
+the diver’s buoyancy. On the other hand, trying to ﬁll this bag at             the dive. It is during the start of the ascent when several choices
+a shallow depth could result in a very ineffective marker for the              are to be made. One can choose to use the shot line as a marker
+boat. A small 3.3-ft sausage with approximately 5 lbs of lift can be           by bringing the grapple up and tying it to the line. The advantage
+shot from any depth with ease, with little or no effect on diver’s             of this is that it allows all the divers to be in one place, making the
+buoyancy. Only a small sausage can stand several feet above the                job of surface support a great deal easier. The disadvantages of this
+surface, making it a very effective marker for the support vessel.             technique are that it requires all divers to come back to the line
+This is maintained by keeping a small amount of tension on the                 to complete their ascent; it requires that everyone keeps to their
+line. It is surprising just how little tension is needed to keep the           planned bottom time, or the line may be released prematurely;
+sausage standing upright; one ﬁnger tapping on the line will have              and it requires divers to work at depth (having to bring grapple
+the desired effect. If a larger SMB is needed, then using a 4.5-ft’            and chain up when gas supply could be getting low, and each
+or 6-ft sausage will create a larger surface target for the vessel to          extra minute spent could mean extended decompression beyond
+see without needing to add massive amounts of gas. With an                     that of the planned gas supply).
+OPV ﬁtted enclosed or semi-closed SMB, divers have the best
+options in nearly all conditions.
+
+Since the ocean is a dynamic place and has a habit of changing
+rapidly, divers’ plans need to be as ﬂexible as possible. By looking
+out into the distance from shore, and by noting typical weather,
+currents, tides and boat trafﬁc, one can start to identify patterns
+that can help structure a sound dive plan. During any dive
+offshore, weather still in sight of land, or 150 miles from the
+nearest safe harbor that is seen and picked up by the dive vessel,
+is of utmost importance. This is why SMBs are used in the ﬁrst
+place. For a boat to ﬁnd a diver, the captain must make decisions
+based on known information; this is why the captain is a key
+member of any ocean dive. If a dive is undertaken in a tidal area,
+the captain will have a good idea of where the dive teams are as
+long as the time frame of the dive is within the plan. If a dive is
+undertaken in an area marked by strong currents, this may make
+the captain’s life a great deal harder, because currents can be very
+different within the water column. In fact, it is not uncommon to
+have currents going in completely different directions at different
+depths. In a case like this, shooting the SMB becomes a critical
+element of the dive plan. During a dive where divers are out of
+sight of land, and with little or no chance of a different vessel
+picking them up, it is imperative that the vessel knows where
+
+                                                                                                                                                  D. Rhea
+divers are at all times. This is one of the largest dangers facing
+the ocean diver, if not the greatest danger.
+
+It is common practice to mark a wreck site with a down line,                   A correctly deployed SMB greatly contributes to diver
+sometimes called a shot line. Divers use this technique to ﬁnd the             safety
+
+6         Quest                                                                                                        Winter 2005
+Nonetheless, at some point divers will have to send an SMB           captains must be on the same page and work together to create
+to the surface. The question is, from what depth should it be        and implement the safest plan.
+sent? One can shoot it from the bottom, from mid-water or
+                                                                     In closing, it is important to keep several things in mind. First, a
+from very shallow. Conditions of environment and time of day
+                                                                     great deal of practice is required to maintain the skill needed to
+will determine from where in the water column a diver will
+                                                                     safely use and deploy a lift bag or SMB. Second, learning to decide
+shoot their bag; one must be ﬂexible. For example, on a day
+                                                                     when to shoot an SMB is extremely important, and making the
+where there is no current and there is great visibility both on
+                                                                     correct decision at the right time will come from experience and
+the surface and below, there is no need to send an SMB from
+                                                                     by talking with the vessel captain and crew, because they are the
+the bottom or mid-water. Because both the diver and the boat
+                                                                     ones looking out for you! Third, having all the dive team members,
+will not move far from the wreck site, sending an SMB up
+                                                                     support vessel members and staff on the same page regarding
+from a shallow depth will be adequate. On the other hand, if
+                                                                     bottom times, etc., will make all the difference between an easy,
+the dive site is in a location that suffers from fog and currents,
+                                                                     safe dive and a complete nightmare. Lastly, once the SMB is on
+it will be necessary to shoot an SMB from depth and keep the
+                                                                     the surface, it is doing its job. At this point, it is more important
+teams together. As can be seen from these examples, there is no
+                                                                     for divers to watch each other and keep time than it is to reel in
+one right way to do this. Many variables have to be taken into
+                                                                     the spool or reel.
+account when deciding when to shoot a bag, and divers and
+
+
+
+
+Quest                                                                                                   Winter 2005              7
+

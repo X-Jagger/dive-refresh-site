@@ -1,0 +1,464 @@
+       Dive Log
+
+
+
+
+Name
+From birth, man carries the weight of gravity on his shoulders. He is bolted to
+earth. But man has only to sink beneath the surface and he is free.
+Jacques-Yves Cousteau
+Personal Information
+Name:
+Date of birth:
+Address:
+
+Country:
+Phone number:
+Mobile phone number:
+E-mail:
+
+
+
+Diving Qualifications
+Highest dive rating:
+Specialties:
+Mixed gas rating:
+Emergency training:
+
+
+
+Emergency Contact
+Contact name:
+Relationship:
+Contact phone number:
+Medical insurance provider:
+Policy number:
+Insurance phone number:
+Primary physician:
+Physician phone number:
+Blood group:
+Allergies:
+Dive Planning
+Pre-dive Sequence
+1. Equipment functionality check
+2. Flow check (verify if valves are open)
+3. GUE EDGE (can include flow and bubble check)
+4. Modified S-drill before descent
+
+
+GUE EDGE
+Goals and objectives
+Unified team strategies (roles/duties/formation)
+Equipment, including modified S-drill/Valve drill/bubble check
+Exposure strategies (depth/time)
+Decompression strategies
+Gas strategies (MG, UG, TP)
+Environment
+
+
+Gas Management
+Surface consumption rate (SCR)
+Volume of consumed gas (L) / dive time x average dive depth (ATA)
+Minimum gas (MG)
+The volume of gas required for two divers to ascend from the bottom to
+the surface while sharing gas.
+Usable gas (UG)
+Cylinder fill pressure (bar) - minimum gas (bar)
+Turn pressure (TP)
+Gas pressure shown on SPG at which a diver will turn the dive.
+This value varies according to the dive plan and gas strategy.
+Available gas supply
+Cylinder volume (L) x cylinder fill pressure (bar)
+Available bottom time (BT)
+Usable gas (L) / (SCR x average depth (ATA))
+Minimum gas (MG)
+MG = (C x A x T) / cylinder volume
+C = Consumption - estimated gas consumption for two divers while
+sharing gas
+A = Average pressure - average pressure between the max depth
+and surface/next available gas source
+T = Time - time needed to ascend with an average speed of no less
+than 3 m/min
+
+Estimated minimum gas
+Depth      CxAxT                  MG volume      MG in 12 L tank
+10 m    MG = 40 x 1.5 x 5           300 L           40 bar
+20 m    MG = 40 x 2 x 8             640 L           60 bar
+30 m    MG = 40 x 2.5 x 11         1100 L          100 bar
+
+
+Usable gas (UG) strategies
+All usable = fill pressure - MG; TP = MG
+Halves of usable gas = (fill pressure - MG)/2; TP = Halves + MG
+Thirds of usable gas = (fill pressure - MG)/3; TP = Thirds + MG
+
+
+
+
+Maximum operational depth (MOD)                           pO2
+pO2 = partial pressure of oxygen
+fO2 = fraction of oxygen in the gas mix                fO2 ATA
+ATA = depth (1 ATA for every 10 m + 1 ATA)
+
+For recreational diving the maximum allowed pO2 is 1.4 ATA
+  Minimum Decompression Table
+                                                                                                                                         WARNING: EVEN STRICT COMPLIANCE WITH THESE CHARTS WILL NOT GUARANTEE
+                                                                                                                                         AVOIDANCE OF DECOMPRESSION SICKNESS OR OXYGEN TOXICITY. CONSERVATIVE
+                                                                                                                                         USAGE IS STRONGLY RECOMMENDED. DO NOT USE UNLESS FULLY TRAINED.
+
+                                                                                                                                         DEPTH      CHART 1 DIVE TIMES WITH END-OF-DIVE GROUP LETTERS
+                                                                                                                                          ft   m
+
+                                                                                                                                         40    12   15      30      45      60      75      95      120 145 170 205 250 310 344
+
+                                                                                                                                         50    15    5      15      25      30      40      50      70      80      100 110 130 150 170
+
+                                                                                                                                         60    18           10      15      25      30      40      50      60      70      80      90      100
+                                            RGT (RESIDUAL GAS TIME)
+
+
+
+
+GUE NITROX 32 MINIMUM DECOMPRESSION TABLE
+                                            +ABT (ACTUAL BOTTOM TIME)
+                                            TGT (TOTAL GAS TIME)                                                                         70    21           10      15      20      25      30      40      50      55      60
+
+                                                                                                                                         80    24            5      10      15      20      30      35      40      45      50
+
+                                                                                                                                         90    27            5      10      15      20      25      30      35      40
+
+                                                                                                                                         100   30            5      10      12      15      20      25      30
+
+                                              ft 40                                                      50    60    70   80   90 100                A       B       C       D       E       F       G       H        I      J       K       L       M
+                                                                                                                                         GROUP
+                                                                                                                                         LETTER
+                                             m 12                                                        15    18    21   24   27   30
+                                                                                                          7     6     5    4    4    3              12:00   12:00   12:00   12:00   12:00   12:00   12:00   12:00   12:00   12:00   12:00   12:00   12:00
+                                                                                                         163   94    55   46   36   27   A           0:10    3:21    4:50    5:49    6:35    7:06    7:36    8:00    8:22    8:51    8:59    9:13    9:29
+
+                                                                                                          17   13    11    9    8    7                      3:20    4:49    5:48    6:34    7:05    7:35    7:59    8:21    8:50    8:58    9:12    9:28
+                                                                                                         153   87    49   41   32   23   B                  0:10    1:40    2:39    3:25    3:58    4:26    4:50    5:13    5:41    5:49    6:03    6:19
+
+                                                                                                          25   21    17   15   13   11                              1:39    2:38    3:24    3:57    4:25    4:49    5:12    5:40    5:48    6:02    6:18
+                                                                                                                                         C
+
+
+
+
+                                                 REPETITIVE DIVES SHALLOWER THAN 15 M/50 FT ARE TO USE
+                                                                                                         145   79    43   35   27   19                              0:10    1:10    1:58    2:29    2:59    3:21    3:44    4:03    4:20    4:36    4:50
+
+                                                                                                          37   29    24   20   18   16                                      1:09    1:57    2:28    2:58    3:20    3:43    4:02    4:19    4:35    4:49
+                                                                                                         133   71    36   30   22   14   D                                  0:10    0:55    1:30    2:00    2:24    2:45    3:05    3:22    3:37    3:53
+
+                                                                                                          49   38    30   26   23   20                                              0:54    1:29    1:59    2:23    2:44    3:04    3:21    3:36    3:52
+                                                                                                         121   62    30   24   17   10   E                                          0:10    0:46    1:16    1:42    2:03    2:21    2:39    2:54    3:09
+
+                                                                                                          61   47    36   31   28   24                                                      0:45    1:15    1:41    2:02    2:20    2:38    2:53    3:08
+                                                                                                         109   53    24   19   12    6   F                                                  0:10    0:41    1:07    1:30    1:48    2:04    2:20    2:35
+
+
+
+
+                                                           THE 15 M/50 FT REPETITIVE SCHEDULE
+                                                                                                         73    56    44   37   32   29                                                              0:40    1:06    1:29    1:47    2:03    2:19    2:34
+                                                                                                         97    44    16   13    8    1   G                                                          0:10    0:37    1:00    1:20    1:36    1:50    2:06
+
+                                                                                                         87    66    52   43   38                                                                           0:36    0:59    1:19    1:35    1:49    2:05
+                                                                                                         83    34     8    7    2
+                                                                                                                                    33   H                                                                  0:10    0:34    0:55    1:12    1:26    1:36
+
+                                                                                                         101   76                                                                                                   0:33    0:54    1:11    1:25    1:35
+                                                                                                          69   24
+                                                                                                                     61   50   43   38    I                                                                         0:10    0:32    0:50    1:05    1:19
+
+                                                                                                         116   87                                                                                                           0:31    0:49    1:04    1:18
+                                                                                                          54   13
+                                                                                                                     70   57   48   43    J                                                                                 0:10    0:29    0:46    1:00
+
+                                                                                                         138   99                                                                                                                   0:28    0:45    0:59
+                                                                                                          32    1
+                                                                                                                     79   64   54   47   K                                                                                          0:10    0:27    0:43
+
+                                                                                                         161                                                                                                                                0:26    0:42
+                                                                                                          9
+                                                                                                               111   88   72   61   53   L                                                                                                  0:10    0:26
+
+                                                                                                                                                                                                                                                    0:25
+                                                                                                         187   124   97   80   68   58   M                                                                                                          0:10
+
+
+
+                                                                                                   CHART 3 REPETITIVE DIVE TIME                                                     CHART 2 SURFACE INTERVAL TIME
+                                                               RED NUMBERS (TOP) ARE RESIDUAL GAS TIMES                                                                             TIME RANGES IN HOURS:MINUTES
+                                                             (RGT). BLACK NUMBERS (BOTTOM) ARE ADJUSTED                                                              START FROM THE TOP, MOVE DOWN TO FIND SURFACE INTERVAL TIME,
+                                                              REPETITIVE MINIMUM DECO DIVE TIMES. ACTUAL                                                                 MOVE LEFT TO FIND THE NEXT REPETITIVE GROUP LETTER.
+                                                                 DIVE TIME MAY NOT EXCEED THIS NUMBER.
+
+
+
+     TABLE NOTES:
+     The GUE Minimum Decompression Table is designed for planning recreational minimum decompression limit (MDL)
+     dives using nitrox 32 as a standard gas. Do not attempt to use it for planning decompression dives.
+     All dives require a minimum decompression profile with variable ascent rates: maximum ascent rate is 9 m/min or 30
+     ft/min up to 50% of the dive depth. From 50% of the dive depth, divers should slow down to 3 m/min or 10 ft/min and
+     follow a minimum decompression profile. This starts from 50% of the dive depth and should include at least 1 min at 9
+     m/30ft, 1 min at 6 m/20 ft, and 1 min at 3 m/10 ft. The stops can be performed as a 30 second stop at the stop depth
+     followed by a 30 second ascent to the next stop depth.
+     Example 1: A dive to 18 m/60 ft stipulates 1 min minimum decompression stops at 9 m/30 ft, 6 m/20 ft, and 3 m/10 ft.
+     Example 2: A dive to 30 m/100 ft stipulates a change of ascent speed at 15 m/50 ft and 1 min stops at 12 m/40 ft, 9
+     m/30 ft, 6 m/20 ft, and 3 m/10 ft. The stops can be performed as a 30 second stop at the stop depth followed by a 30
+     second ascent to the next stop depth.
+     Emergency decompression: f a minimum decompression limit (MDL) was exceeded by less than 5 min, a 5 min
+     decompression stop at 3 m/10 ft is mandatory. If a minimum decompression limit was exceeded by more than 5 min, a
+GUE NITROX 32 MINIMUM DECOMPRESSION TABLE GUIDELINES
+TABLE NOTES:
+The GUE Minimum Decompression Table is designed for planning recreational minimum
+decompression limit (MDL) dives using nitrox 32 as a standard gas. Do not attempt to use it
+for planning decompression dives.
+All dives require a minimum decompression profile with variable ascent rates: maximum
+ascent rate is 9 m/min or 30 ft/min up to 50% of the dive depth. From 50% of the dive depth,
+divers should slow down to 3 m/min or 10 ft/min and follow a minimum decompression
+profile. This starts from 50% of the dive depth and should include at least 1 min at 9 m/30ft,
+1 min at 6 m/20 ft, and 1 min at 3 m/10 ft. The stops can be performed as a 30 second stop
+at the stop depth followed by a 30 second ascent to the next stop depth.
+Example 1: A dive to 18 m/60 ft stipulates 1 min minimum decompression stops at 9 m/30 ft,
+6 m/20 ft, and 3 m/10 ft.
+Example 2: A dive to 30 m/100 ft stipulates a change of ascent speed at 15 m/50 ft and 1
+min stops at 12 m/40 ft, 9 m/30 ft, 6 m/20 ft, and 3 m/10 ft. The stops can be performed as a
+30 second stop at the stop depth followed by a 30 second ascent to the next stop depth.
+Emergency decompression: if a minimum decompression limit (MDL) was exceeded by
+less than 5 min, a 5 min decompression stop at 3 m/10 ft is mandatory. If a minimum
+decompression limit was exceeded by more than 5 min, a 15 min or longer stop (gas supply
+permitting) is mandatory at 3 m/10 ft. Repetitive dives are not allowed after emergency
+decompression.
+Special recommendations for multiple dives: Recommended limit of no more than 4
+dives per day.
+Flying after diving: after a single dive, a minimum surface interval of 12 hours is
+recommended. After repetitive diving, a minimum surface interval of 18 hours is
+recommended.
+Diving at altitude: diving at altitude (300 m/1000 ft or greater) requires the use of special
+procedures.
+
+
+     MINIMUM DECOMPRESSION LIMITS PRAGMATIC CHART
+                                                   SURFACE
+                             PRAGMATIC                                   SURFACE INTERVAL
+      DEPTH       MDL                              INTERVAL
+                                MDL                1-2 HOURS
+                                                                             2+ HOURS
+ft     30          NO
+m       9         LIMIT       NO LIMIT              NO LIMIT                   NO LIMIT
+
+       40         344
+       12         min           90 min            50% of MDL                 75% of MDL
+       50         170
+       15         min
+                                80 min            50% of MDL                 75% of MDL
+       60         100
+       18         min
+                                70 min            50% of MDL                 75% of MDL
+       70
+       21
+                 60 min         60 min            50% of MDL                 75% of MDL
+       80
+       24
+                 50 min         50 min            50% of MDL                 75% of MDL
+       90
+       27
+                 40 min         40 min            50% of MDL                 75% of MDL
+       100
+       30
+                 30 min         30 min            50% of MDL                 75% of MDL
+Notes
+G                                      Date              Dive #
+U
+E                                      Country
+E
+                                       Location
+D
+G                                      Dive site
+E
+Visibility & current:        Cylinder(s):
+Water temp:                  Weight:
+Sea/fresh water:             Exposure wear:
+
+
+    SI       bar / psi                               bar / psi
+
+
+                                                   deco time
+
+                                                   avg. depth
+
+
+              max. depth
+                           dive time
+Notes
+
+
+
+
+Signature:
+G                                      Date              Dive #
+U
+E                                      Country
+E
+                                       Location
+D
+G                                      Dive site
+E
+Visibility & current:        Cylinder(s):
+Water temp:                  Weight:
+Sea/fresh water:             Exposure wear:
+
+
+    SI       bar / psi                               bar / psi
+
+
+                                                   deco time
+
+                                                   avg. depth
+
+
+              max. depth
+                           dive time
+Notes
+
+
+
+
+Signature:
+ G                                      Date              Dive #
+ U
+ E                                      Country
+ E
+                                        Location
+ D
+ G                                      Dive site
+ E
+Visibility & current:         Cylinder(s):
+Water temp:                   Weight:
+Sea/fresh water:              Exposure wear:
+
+
+     SI      bar / psi                                bar / psi
+
+
+                                                    deco time
+
+                                                    avg. depth
+
+
+               max. depth
+                            dive time
+ Notes
+
+
+
+
+Signature:
+G                                      Date              Dive #
+U
+E                                      Country
+E
+                                       Location
+D
+G                                      Dive site
+E
+Visibility & current:        Cylinder(s):
+Water temp:                  Weight:
+Sea/fresh water:             Exposure wear:
+
+
+    SI       bar / psi                               bar / psi
+
+
+                                                   deco time
+
+                                                   avg. depth
+
+
+              max. depth
+                           dive time
+Notes
+
+
+
+
+Signature:
+ G                                      Date              Dive #
+ U
+ E                                      Country
+ E
+                                        Location
+ D
+ G                                      Dive site
+ E
+Visibility & current:         Cylinder(s):
+Water temp:                   Weight:
+Sea/fresh water:              Exposure wear:
+
+
+     SI      bar / psi                                bar / psi
+
+
+                                                    deco time
+
+                                                    avg. depth
+
+
+               max. depth
+                            dive time
+ Notes
+
+
+
+
+Signature:
+G                                      Date              Dive #
+U
+E                                      Country
+E
+                                       Location
+D
+G                                      Dive site
+E
+Visibility & current:        Cylinder(s):
+Water temp:                  Weight:
+Sea/fresh water:             Exposure wear:
+
+
+    SI       bar / psi                               bar / psi
+
+
+                                                   deco time
+
+                                                   avg. depth
+
+
+              max. depth
+                           dive time
+Notes
+
+
+
+
+Signature:
+Notes
+                                 Photo: Andreas Hagberg © GUE
+Global Underwater Explorers
+    High Springs Main 18487
+                     Street
+
+
+
+
+Global Underwater Explorers
+18487 High Springs Main Street
+High Springs, FL 32643, USA
+
+info@gue.com | www.gue.com
+
+ Design : Alexandra Huth © GUE
+

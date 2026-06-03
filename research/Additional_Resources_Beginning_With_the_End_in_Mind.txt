@@ -1,0 +1,257 @@
+--- Page 1 ---
+Beginning With the End in Mind
+‐ the Fundamentals of Recreational Diving
+Jesper Berglund
+
+
+--- Page 2 ---
+Beginning With the End in Mind –t h e Fundamentals of Recreational Diving
+Copyright  © 2009
+Produced by Global Underwater Explorers, Sweden, Stockholm, 2008
+First edition, version 1.0
+All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form 
+or by any means – electronic, mechanical, photocopying, microfilming, recording, or otherwise – without written 
+permission from the publisher, except by a reviewer who may quote brief passages in a review with the appropriate 
+credit. For information about this book, contact: 
+Global Underwater Explorers
+15 S. Main St., High Springs, 
+Florida 32643
+United States
+.
+Disclaimer
+Global Underwater Explorers, its Board of Director, Instruc tors or appointees and the author(s) of this workbook shall
+not be liable for any injury (fatal or otherwise), loss or dama ge sustained, either directly or indirectly, through the
+use of this workbook including loss or d amage resulting from negligence.
+Diving is an experimental activity and no guarantee can made as to the accuracy of any of the material contained
+here. It is therefore up to the individual to exercise caution when using any of the information in this workbook. This
+workbook may only be used in conjunction with formal dive r training from a qualified GUE Instructor. However, the
+participation of each diver in any diving activity shall be strictly voluntarily and the doiver shall assume all risks,
+consequences and potential liability for his/her own actions or the negligence of any other party. No responsibility
+for any accident or damage caused from the use of this material can be placed with the author(s), editors or
+producers, the instructor, the providers of the materia l or Global Underwater Explorers. Use At Your Own Risk.
+Telephone: 001 386 454 08 20
+Fax: 001 386 454 08 15
+E‐mail: info@gue.com
+www.gue.com
+
+
+--- Page 3 ---
+Guidelines to use this workbook
+Beginning With the End in Mind
+‐ the Fundamentals of Recreational Diving
+Jesper Berglund
+
+
+--- Page 4 ---
+Author:
+Jesper Berglund
+Contributing Author:
+Liam Allen
+Graphic Design and Artwork:
+Helene Hagerman
+Producer:
+Jarrod Jablonski
+Editing and Content:
+Dr. David Doolette
+Dawn Kernagis
+Derk Remmers
+Ed Gabe
+George Boloukus
+Helene Hagerman
+Jarrod Jablonski
+Karim Hamza
+Laura Auito
+Marc Hall
+Maren Izigkeit
+Mario Arena
+Nick Shoeffler
+Richard Lundgren
+Richard Walker
+Sarah K. Wears‐Garcia
+Susan Bird
+A special thank you to:
+Jarrod Jablonski
+Richard Lundgren
+Helene Hagerman
+Liam Allen
+Dr. David Doolette
+David and Tina Rhea
+Dawn Kernagis
+Richard Walker
+Claudio Provenzani
+Elena Romano
+Derk Remmers
+Maren Izigkeit
+Laura Auito
+Daniel Hansson
+Niklas Hagen for his continuous support
+Photo Credits:
+Ali Taylor
+Anatoly Styf
+Andrew Beasley
+Anna Hunter
+Barry Smith
+Bartek Cyperling
+Bill Chilton
+Bryce Thompson
+Claudio Provenzani
+Daniel Hansson
+Daniel Riordan
+David Guglielmo
+David Rhea
+Derk Remmers
+Eraxion
+Fleur Suijten
+Gareth Lock
+George Boloukus
+Griet Schneider
+Helene Hagerman
+Henrik Cederblad
+Ilker Izmir
+J Daley
+Jarrod Jablonski
+Jesper Berglund
+Kirti Chetty
+Laura Mae Luett
+Liam Allen
+Linda Haglund
+LotusHead
+Lukasz Grzy
+Marta Domingo
+MCEP
+Micke Tilja
+Neil Gould
+Pontus Edenberg
+Richard Lundgren
+Robert Lee
+Rodolfo Clix
+Sara Sandberg
+Satendra Mhatre
+Simon Tullstedt
+Sonya Tittle
+Steve Woods
+Susan Bird
+Twmedia
+Uli Kunz
+Viktors Kozers
+Wojtek Filip
+WKPP
+Front Cover Photo Credits:
+David Rhea and Linda Haglund
+Chapter Front Cover Photos:
+Ch 1 – Claudio  Provenzani
+Ch 2  – Adrienne Muscat
+Ch 3  – Helene Hagerman
+Ch 4  –D a n i e l Hansson
+Ch 5  –D a n i e l Riordan
+Ch 6  – Andreas Brodow
+CH 7 – Henrik Cederblad
+CH 8– J e s p e r  Berglund
+Ch 9  –S a m Radion
+Ch 10 – Kirti Chetty
+Acknowledgements
+
+
+--- Page 5 ---
+“Beginning With the End in Mind – The Fundamentals of Recreational Diving” is written
+primarily for the purpose of being a student workbook for the GUE Recreational Diver
+Level 1 course. However, this book may also be used by students training on other levels
+within the GUE course curriculum. “Beginning With the End in Mind” is divided into 10
+chapters following the structure of the instructor ‐held lectures of the GUE Recreational
+Diver level 1 course. The workbook is a resource for self ‐study – a vital component of the
+academic learning process of the GUE Recreational Diver Level 1 class and provides
+elaborated information on the subjects presented orally by your GUE instructor.
+GUE Recreational Diver Level 1 students are asked to study this workbook carefully and
+use the learning aides and supplementary r esources included or referred to in this
+workbook to maximize learning efficiency . GUE would like to emphasize that you as a
+Learning Aides – “Quick Reviews” and “Knowledge assessment”
+In each chapter of this workbook you will find learning aides t hat are designed to facilitate easy tracking of individual
+knowledge development. These learning aides include “Q uick Reviews” and “Knowledge Assessments”. The “Quick
+Reviews” are short quizzes through which students quick ly can gauge their level of understanding for what they have
+just read and will appear as boxes in the page margin of this workbook. At the end of each chapter you will find
+“Knowledge Assessments” which are in the form of longer quizzes. The Knowledge Assessments needs to be
+completed and handed in to your GUE instructor as they re present an important instrument through which the
+instructor may determine the need for prescriptive teach ing on specific subjects. Further to this, the Knowledge
+Assessments will help in preparing the GUE Recre ational Diver Level 1 student for the final exam.
+“Go deeper” – Encyclopedia and Supplemental Reading
+For even more in ‐depth information than is included in the workbo ok chapters, students will sometimes find “Go
+deeper links” at the bottom of some pages in the workb ook. These go deeper links refer to exact pages and
+paragraphs in supplemental reading resources such as:
+− The “Submerged” Encyclopedia
+‘Submerged – Mastering the Art and Science of Sport Di ving’; This elaborate diving encyclopedia is made
+available as a part of your study material. The Submerged encyclopedia is divided into 12 chapters and is an
+excellent resource for in‐depth information
+− Doing it Right – the Fundamentals of Better Diving
+This book is dedicated to give in ‐depth information on the holistic GUE philosophy a.k.a Doing it Right.
+− The GUE website
+This Online resource provides detailed information on the GUE organization, our mission and efficacy.
+− Primer material
+For further reading your instructor may present you with so called primer material. These primers are
+available in the form of PDF articles that elaborates on subjects such as e.g. the use of Nitrox, fitness etc.
+Abbreviation and Glossary
+At the end of this workbook a list of abbreviations is incl uded to enable quick explanations of all diving related
+acronyms that are used throughout this workbook. These a cronyms will in all cases be spelled out and explained the
+first time they are introduced in the text but will later appear only in their acronym ‐form. Further to this, a glossary
+have been included at the end to help explain a wide range of expressions and terms used in this book.
+Guidelines to Use This Book
+students may ALWAYS ask the GUE instructor any question a t any time during your training. Your GUE instructor is
+there exclusively for your learning and we strongly advice you to always seek help or directions that may increase
+your understanding.
+
+
+--- Page 6 ---
+Guidelines to use this workbook
+
+
+--- Page 7 ---
+I never wanted to start diving in the first place. In fact, I refused at first. I was almost completely lacking knowledge
+and curiosity of what lay under the sea surface, so my prospects of becoming an avid diver must have seemed poor
+at first. When a friend of mine literally dragged me into the sport (and physically to my first scuba class), I did not
+have any clue as to what to expect.
+Yet, my first encounter with the sub aqua tic world would for ever change my life . The complex and overwhelmingly
+beautiful underwater landscape, the ability to move effortlessly in three dimensions, the tranquility and the
+immense adventure of it all completely took me by surpris e. When I resurfaced again after my first visit to the wild ,
+and at the same time serene aquatic realm, I remember asking my diving instructor if it could really be possible that
+he experienced this every day?
+I still recall him smiling back at me in affirmation, and a t that very moment I suddenly knew what I should do in life.
+Experience it again – the adventure, the tranquility and the serenity. Every day.
+Many years down the line, as a diving professional having taught many divers on various levels in many different
+parts of the world, it remains one of my greatest passions in life to give people the same experience I had during my
+first scuba class.
+To give someone the knowledge and techniques necessary to explore the oceans unknown and unearthly beauty of
+the underwater world is always a great responsibility and h onor. Likewise, being an explorer of the aquatic realm
+(and a guest in an environment to which mankind can only venture with the aid of life ‐supporting equipment) is a
+great liability towards our natural world and coming generations.
+Conserving our planet’s aquatic resources is of paramo unt importance as decades of increasingly more aggressive
+human impact not only starts becoming evident, but is proving to be devastating. Consequently, divers have a great
+responsibility not only to inspire others, but also to take active measures to protect and conserve the aquatic
+element, which we are blessed to explore through scuba diving.
+I hope that this book will inspire you to share the passion of Global Underwater Explorers – the world’s premier
+organization for exploration, research and education in all things aquatic. Regardless if you are already a certified
+diver or if GUE Recreational Diver Level 1 is your first step, I would like to welcome you to a life ‐time of adventures
+through scuba diving – one of the most versatile sports requi ring dedication, practice, quality instruction and time to
+master.
+There are many people to whom I will be eternally grateful and without whom this book would never have been
+written. Out of all of these amazing individuals, GUE Pre sident Jarrod Jablonski and Training Director Richard
+Lundgren must be mentioned first since their faith in me was a key factor for production to even begin. Helene
+Hagerman, who has tirelessly put up with me, designed and co ‐produced along the way. Liam Allen for being a true
+brother in arms, my family and friends for their support.
+Last, I would like to dedicate this book to my beloved friend Todd Törnquist –
+the man who literary dragged me to the water that day, and without whom I 
+probably still wouldn't have experienced the great adventure that you are all 
+about to begin.
+Welcome to the aquatic realm and Global Underwater Explorers,
+Jesper Berglund
+Training Director of Recreational Diving
+Global Underwater Explorers
+Preface
+
+
+--- Page 8 ---
+Guidelines to use this workbook
+
+
+--- Page 9 ---
+Guidelines to use this workbook
+“We forget that the water cycle and the life cycle are one.”
+‐Jacques Cousteau
