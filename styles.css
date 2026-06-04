@@ -441,6 +441,11 @@ h3 {
   background: #dff1f0;
 }
 
+.section-video-links {
+  width: min(1120px, 100%);
+  margin: 0 auto 22px;
+}
+
 .section {
   padding: clamp(52px, 8vw, 92px) clamp(16px, 4vw, 48px);
 }
