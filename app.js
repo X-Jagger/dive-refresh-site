@@ -53,3 +53,29 @@ document.querySelectorAll("a[href^='http']").forEach((link) => {
   link.target = "_blank";
   link.rel = "noopener noreferrer";
 });
+
+
+const tripChecklistRoot = document.querySelector("#tripChecklist");
+const tripChecklistKey = "bali-2026-trip-checklist";
+
+function tripInputId(input) {
+  const labels = Array.from(tripChecklistRoot.querySelectorAll("input"));
+  return `trip-${labels.indexOf(input)}`;
+}
+
+if (tripChecklistRoot) {
+  let tripState = {};
+  try {
+    tripState = JSON.parse(localStorage.getItem(tripChecklistKey)) || {};
+  } catch {
+    tripState = {};
+  }
+
+  tripChecklistRoot.querySelectorAll("input[type='checkbox']").forEach((input) => {
+    input.checked = Boolean(tripState[tripInputId(input)]);
+    input.addEventListener("change", () => {
+      tripState[tripInputId(input)] = input.checked;
+      localStorage.setItem(tripChecklistKey, JSON.stringify(tripState));
+    });
+  });
+}

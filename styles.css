@@ -864,7 +864,7 @@ body.lang-en .knowledge-card .zh {
 
 .portal-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
   gap: 16px;
 }
 
@@ -976,6 +976,125 @@ body.lang-en .knowledge-card .zh {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
 }
 
+
+.trip-page .article-hero,
+.trip-page .article-body {
+  width: min(980px, 100%);
+}
+
+.trip-hero h1 {
+  max-width: 900px;
+}
+
+.trip-summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.trip-summary div,
+.trip-days article,
+.question-grid article {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 28px rgba(22, 52, 54, 0.06);
+}
+
+.trip-summary div {
+  padding: 14px 16px;
+}
+
+.trip-summary span,
+.trip-days span {
+  display: block;
+  color: var(--coral);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.trip-summary strong {
+  display: block;
+  margin-top: 4px;
+  color: var(--teal-dark);
+  line-height: 1.35;
+}
+
+.trip-block {
+  margin-top: 34px;
+  padding-top: 28px;
+  border-top: 1px solid var(--line);
+}
+
+.trip-block h2 {
+  margin-top: 0;
+}
+
+.priority-block {
+  padding: clamp(20px, 4vw, 30px);
+  background: #fff8ef;
+  border: 1px solid #f0d8b0;
+  border-top: 5px solid var(--coral);
+  border-radius: 8px;
+}
+
+.trip-days,
+.question-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.trip-days article,
+.question-grid article {
+  padding: 18px;
+}
+
+.trip-days h3,
+.question-grid h3 {
+  margin-top: 8px;
+}
+
+.trip-block ul {
+  margin-bottom: 0;
+}
+
+.trip-block li {
+  margin: 8px 0;
+}
+
+.todo-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.todo-list label {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 12px;
+  color: var(--muted);
+  background: #f6fbfa;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.todo-list input {
+  width: 18px;
+  height: 18px;
+  margin-top: 4px;
+  accent-color: var(--teal);
+}
+
+.sources-block a {
+  color: var(--teal-dark);
+  font-weight: 800;
+}
+
 .article-body ul {
   padding-left: 22px;
 }
@@ -1010,6 +1129,12 @@ footer {
   .procedure-grid,
   .flow-steps {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .trip-summary,
+  .trip-days,
+  .question-grid {
+    grid-template-columns: 1fr;
   }
 
   .cards,
@@ -1071,7 +1196,10 @@ footer {
   .future-grid,
   .portal-grid,
   .procedure-grid,
-  .flow-steps {
+  .flow-steps,
+  .trip-summary,
+  .trip-days,
+  .question-grid {
     grid-template-columns: 1fr;
   }
 
